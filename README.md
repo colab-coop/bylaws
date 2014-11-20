@@ -1,4 +1,15 @@
 𝔗𝔥𝔢 𝔅𝔶𝔢𝔏𝔞𝔴𝔰 𝔬𝔣 𝔱𝔥𝔢 𝕮𝔬𝔬𝔭𝔢𝔯𝔞𝔱𝔦𝔳𝔢 𝔬𝔣 𝕮𝔬𝔏𝔞𝔟
 ======
 
-CoLab Bylaws
+CoLab Cooperative Bylaws
+
+Table of Contents
+---
+
+[ARTICLE 1](ARTICLE-1.markdown): WORKERS & MEMBERSHIP
+[ARTICLE 2](ARTICLE-2.markdown): TERMINATION OF MEMBERSHIP
+[ARTICLE 3](ARTICLE-3.markdown): MEMBERSHIP CONSENSUS
+[ARTICLE 4](ARTICLE-4.markdown): MEETINGS
+[ARTICLE 5](ARTICLE-5.markdown): OFFICERS
+[ARTICLE 6](ARTICLE-6.markdown): INSPECTION RIGHTS
+[ARTICLE 7](ARTICLE-7.markdown): SURPLUSES, DEFICITS AND ALLOCATIONS
