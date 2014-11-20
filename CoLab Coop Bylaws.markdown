@@ -1,12 +1,9 @@
-BYLAWS 
-OF
-COLAB
-COOPERATIVE, INCORPORATED
-11/17/2014
+# BYLAWS OF COLAB COOPERATIVE
+INCORPORATED 11/17/2014
 
-ARTICLE I:  WORKERS & MEMBERSHIP
+## ARTICLE I:  WORKERS & MEMBERSHIP
 
-Section 1.1  Classification of Members
+### Section 1.1  Classification of Members
 
 (a) Definition: Member-Owners are Members of the Cooperative who have completed the Member review process,
 paid full buy-in investment by capital investment or pro-bono work.
@@ -17,7 +14,7 @@ paid full buy-in investment by capital investment or pro-bono work.
   (1) All Member-Owners are entitled to participate in any decision-making process within CoLab.
   (2) All Member-Owners are entitled to year end bonus and owner benefits as decided collectively by the Member Body.
 
-Section 1.2  Membership Qualifications
+### Section 1.2  Membership Qualifications
 
 Any person legally allowed to work within the legal context of CoLab Cooperative Incorporated may become a Member-Owner of this Corporation if the potential Member satisfies the following at the discression of the Member Body:
 
@@ -32,31 +29,31 @@ Any person legally allowed to work within the legal context of CoLab Cooperative
 (i) Have gone through review discussion with board representatives
 (j) Have worked with CoLab for at least 12 months at the time of final vote of approval as specified in Section 1.2 (k), and has logged at least 1000 hours in the past 12 months.
 (k) Have been approved by all existing CoLab Member-Owners in a vote organized by CoLab board
-(l) Have ratified (read, agreed, printed, signed, scanned, delivered) CoLab Membership Doctrine 
+(l) Have ratified (read, agreed, printed, signed, scanned, delivered) CoLab Membership Doctrine
 
 In case the candidate is no longer in a position to become a Member-Owner at any stage of the process, either due to his/her own volition or due to the decision of the Member Body, CoLab shall refund the full amount equivalent to pro-bono work done towards CoLab membership by the candidate, on terms mutually decided by CoLab and the candidate.
 
 The Member Body may choose to ignore any or all of the criteria stated above.
 
-Section 1.3  Acceptance of Member-Owners
+### Section 1.3  Acceptance of Member-Owners
 
 (a)	Any subset of the Member Body so inclined, or an empowered hiring committee appointed by the interested subset of the Member Body shall review applications, instate a period of member candidacy, and once criteria stated above are established or ignored by the interested subset of the Member Body, shall give an offer of Member-Ownership to the potential Member-Owner.
 
-Section 1.4  Transfers Prohibited
+### Section 1.4  Transfers Prohibited
 
 No Member-Owner may transfer her or his Membership or any right arising there from.  Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.
 
-ARTICLE II:  TERMINATION OF MEMBERSHIP
+## ARTICLE II:  TERMINATION OF MEMBERSHIP
 
-Section 2.1  Voluntary Withdrawal
+### Section 2.1  Voluntary Withdrawal
 
 A Member shall have the right to resign from the Corporation, effective immediately without any action on the part of the Corporation.
 
-Section 2.2  Death
+### Section 2.2  Death
 
 A Membership shall immediately terminate upon the death of a Member.
 
-Section 2.3  Expulsion
+### Section 2.3  Expulsion
 
 (a)	A Member may for any lawful reason be expelled from the Corporation by unanimous consensus of the Member Body.
 
@@ -65,9 +62,9 @@ Section 2.3  Expulsion
 (d)	The Member Body may direct a Member under expulsion order to refrain from conducting business as a Member until the termination action is resolved provided the Corporation pays the Member her or his unpaid wages -- until resolution is reached.  The Member Body may also direct the Member under expulsion order to stay off corporate property except as necessary by law.
 
 
-ARTICLE III:  MEMBERSHIP CONSENSUS
+## ARTICLE III:  MEMBERSHIP CONSENSUS
 
-Section 3.1  Actions Requiring Consensus of the Member Body
+### Section 3.1  Actions Requiring Consensus of the Member Body
 
 The following acts require consensus of the Member Body:
 
@@ -81,50 +78,49 @@ The following acts require consensus of the Member Body:
 
 	(3)	Authorize a new class of Memberships
 
-Section 3.2  Process of Decision-Making
+### Section 3.2  Process of Decision-Making
 
 The Member Body (or interested subset when deciding issues not requiring full consensus of the Member Body) shall attempt to approach all decision-making matters with a goal of seeking consensus. If it becomes apparent that consensus cannot be reached in time for the decision to be relevant or beneficial, the Member Body or interested subset will take action as it sees fit, and will apologize to the full membership that consensus was not reached, and that it will try harder next time.
 
 Consensus may mean that consensus is reached agreeing that consensus is not necessary for a given issue. Viable alternatives should start with three-fourths majority vote, with decreasing acceptable egalitarianism.
 
-Section 3.14  Use of ballots for voting in case consensus is not reached
+### Section 3.14  Use of ballots for voting in case consensus is not reached
 
 The protocol for the use of ballots in any way may be determined by the Member Body or by any interested subset by way of consensus or voting depending on if the decision requires consensus as defined in Section 3.1.
 
-ARTICLE IV: MEETINGS
+## ARTICLE IV: MEETINGS
 
-Section 4.1 Meetings
+### Section 4.1 Meetings
 
 Regular Member-Owner meetings shall be held annually beginning January 1st, 9999. Stated clearly, Minnesota state law requires 308B Cooperative Corporations to set a regular Member-Owners' meeting at a time determined by the board or provided by the bylaws. Here the bylaws set the regular date beginning in the inconcievable future.
 
-ARTICLE V:  OFFICERS
+## ARTICLE V:  OFFICERS
 
-Section 5.1  Titles
+### Section 5.1  Titles
 
 In accordance with Minnesota state law, the offices of the Corporation shall be a chair, a vice-chair, a combination records and financial officer. The Member Body shall elect the officers randomly, as the office has no power or meaning outside of the requirement of Minnesota state law.
 
+## ARTICLE VI:  INSPECTION RIGHTS
 
-ARTICLE VI:  INSPECTION RIGHTS
-
-Section 6.1  Articles and Bylaws
+### Section 6.1  Articles and Bylaws
 
 The Corporation shall keep at its principal office in New York the original or a copy of its articles and Bylaws as amended to date, which shall be open to inspection either in-person or online by the Member-Owners.
 
-Section 6.2  Books and Records
+### Section 6.2  Books and Records
 
 The accounting books and records and minutes of any proceedings of the Member Body and/or interested subsets shall be open to inspection on the written demand of any Member-Owner at any reasonable time, for a purpose reasonably related to that person's interests as a Member-Owner.
 
-Section 6.3  Inspection of Membership List
+### Section 6.3  Inspection of Membership List
 
 (a)	Subject to the Corporation's right to set aside a Member-Owner's demand for inspection of the Corporations Code and the power of the court to limit inspection rights, and unless the Corporation provides a reasonable alternative, the Corporation shall provide detailed list of its Members online accessible to all Member-Owners.
 
-ARTICLE VII:  SURPLUSES, DEFICITS AND ALLOCATIONS
+## ARTICLE VII:  SURPLUSES, DEFICITS AND ALLOCATIONS
 
-Section 7.1  Fiscal Year
+### Section 7.1  Fiscal Year
 
 The fiscal year of the Corporation shall end at the close of the business day on the last day of December of each year.
 
-Section 7.2 Terms Defined 
+### Section 7.2 Terms Defined
 
 "Profit" shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year.
 
@@ -132,40 +128,40 @@ Section 7.2 Terms Defined
 
 Items (a) to (b) in Section 7.2 shall be determined in accordance with generally accepted accounting principles and shall be computed without regard to any patronage refunds, capital allocations, or income taxes.
 
-Section 7.3  Allocations and Distributions of Profits and Losses
+### Section 7.3  Allocations and Distributions of Profits and Losses
 
 (a) Any Profit shall be credited to the Collective Account.
 
 (b) Any Loss shall be applied to the Collective Account.
 
-(c) Upon completion of the previous years taxes and if the company showed a Profit on the tax return, then the Board may approve to pay bonuses as it sees fit to each Member-Owner.  The distribution of bonuses will be merit based or as discussed by the board and is only for Member-Owners.  The amount of the bonuses is to be determined by the Board but in any case shall be in compliance with all applicable laws. 
+(c) Upon completion of the previous years taxes and if the company showed a Profit on the tax return, then the Board may approve to pay bonuses as it sees fit to each Member-Owner.  The distribution of bonuses will be merit based or as discussed by the board and is only for Member-Owners.  The amount of the bonuses is to be determined by the Board but in any case shall be in compliance with all applicable laws.
 
-(d) After the Board approves bonus payments for the previous year’s work, bonuses will be paid via payroll in one-go or equal installments (such that the total bonus is paid by the end of the current year) as decided by the Board.  
+(d) After the Board approves bonus payments for the previous year’s work, bonuses will be paid via payroll in one-go or equal installments (such that the total bonus is paid by the end of the current year) as decided by the Board.
 
 (e) If there are any surplus tax liabilities on the Member-Owners arising due to Board decision to not distribute the entire profit as bonus, the corporation shall take care of the specific amount of tax liability for each such Member-Owner.
 
-Section 7.4  Payment Rights Regarding Member Accounts
+### Section 7.4  Payment Rights Regarding Member Accounts
 
-(a) When a Member's membership in the Cooperative is terminated, the amount in her/his Member Account will automatically be redeemed in exchange for debt.  The cooperative shall repay the debt within two years of the Membership termination, with interest accruing at the discount rate -- as set by the Federal Reserve Bank nearest to the Member-Owner -- plus two percent (2%), on the amount outstanding at the end of each fiscal year.  
+(a) When a Member's membership in the Cooperative is terminated, the amount in her/his Member Account will automatically be redeemed in exchange for debt.  The cooperative shall repay the debt within two years of the Membership termination, with interest accruing at the discount rate -- as set by the Federal Reserve Bank nearest to the Member-Owner -- plus two percent (2%), on the amount outstanding at the end of each fiscal year.
 
 (b) The Cooperative, in settling a Member Account, shall have the right to set off any and all indebtedness of the former Member to the Corporation.
 
-Section 7.5  Periodic Payment of Member Accounts
+### Section 7.5  Periodic Payment of Member Accounts
 
 The Cooperative shall aim to pay out to the Members all funds in their Member Accounts within one (1) year of the date they were first credited. As a general rule, written notices of allocation credited to Member Accounts (including notices now converted to debt) will be paid-out in the order in which they are credited, the oldest paid-out first; however, the Board can decide to accelerate the repayment of debt owed to former Members.  If the Cooperative does not allot sufficient funds to pay-out all funds credited to Member Accounts for a given fiscal year, then a proportionate dollar amount of funds credited to Members will be paid-out.
 
-Section 7.6  Unclaimed Equity Interests
+### Section 7.6  Unclaimed Equity Interests
 
 Any proprietary interest in the Corporation held by a Member that would otherwise escheat to the State the Member is living in as unclaimed personal property shall instead become the property of the Corporation if the Corporation gives at least 60 days prior notice of the proposed transfer to the affected Member by (1) first-class or second-class mail to the last address of the Member shown on the Corporation's records, and (2) by publication in a newspaper of general circulation in the county in which the Corporation has its principal office.  No property or funds shall become the property of the Corporation under this section if written notice objecting to the transfer is received by the Corporation from the affected Member prior to the date of the proposed transfer.
 
-Section 7.7  Dissolution Distributions and Remaining Liabilities
+### Section 7.7  Dissolution Distributions and Remaining Liabilities
 
 Upon liquidation, dissolution, or sale of the assets of the Corporation, any assets left after payment of all debts and Member-Owner Account balances shall be distributed to all persons who were Collaborator Members, in proportion to the Collaborator Members' account balances. No distribution need be made to any person who fails to acknowledge the receipt of notice of liquidation in a timely manner.  Said notice shall be deemed sufficient if sent by certified mail, at least 30 days before distribution of any residual assets, to the person's last know business or residence.
 
 Upon liquidation, dissolution, or sale of the assets of the Corporation, any Remaining Liabilities or debt left after payments from the sale of the assets shall be due and payable by all persons who were Member-Owners at the time of the dissolution, in proportion to the Member-Owners' relative paid labor for the previous and current fiscal year with the Cooperative.  Credit balances in any Collaborator Member or Member-Owner Accounts will be paid only after all debt and liabilities have been paid.
 
-The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Member-Owner Accounts, starting with oldest Member-Owner and proceeding then to the next member remaining in the order of becoming a Member-Owner, finally Collaborator Members. 
+The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Member-Owner Accounts, starting with oldest Member-Owner and proceeding then to the next member remaining in the order of becoming a Member-Owner, finally Collaborator Members.
 
-Section 7.8  Maintaining Equitable Membership Fees
+### Section 7.8  Maintaining Equitable Membership Fees
 
 In order to insure that Membership in the Corporation may remain accessible for persons of modest means, the Corporation will consider flexible options, such as work-trade at a lower wage, with some of the work hours contributing to the membership fee.
