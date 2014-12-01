@@ -1,4 +1,0 @@
-bylaws
-======
-
-CoLab Bylaws
