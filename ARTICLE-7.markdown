@@ -14,13 +14,15 @@ Items (a) to (b) in Section 7.2 shall be determined in accordance with generally
 
 ### Section 7.3  Allocations and Distributions of Profits and Losses
 
-(a) Any Profit shall be credited 70% to Members and 30% to the Collective Account.
+(a) Any Profit shall be credited to the Collective Account.
 
-(b) Any Loss shall be distributed 50% to Member Accounts and 50% to the Collective Account.
+(b) Any Loss shall be applied to the Collective Account.
 
-(c) Member distributions shall be allocated in direct proportion to hours worked by the individual Members during the fiscal year.
+(c) Upon completion of the previous years taxes and if the company showed a Profit on the tax return, then the Board may approve to pay bonuses as it sees fit to each Member-Owner.  The distribution of bonuses will be merit based or as discussed by the board and is only for Member-Owners.  The amount of the bonuses is to be determined by the Board but in any case shall be in compliance with all applicable laws.
 
-(d) The Board shall determine and distribute Profit and Losses, in accordance with the distribution percentages provided in this Agreement, annually or at more frequent intervals as it sees fit.
+(d) After the Board approves bonus payments for the previous year’s work, bonuses will be paid via payroll in one-go or equal installments (such that the total bonus is paid by the end of the current year) as decided by the Board.
+
+(e) If there are any surplus tax liabilities on the Member-Owners arising due to Board decision to not distribute the entire profit as bonus, the corporation shall take care of the specific amount of tax liability for each such Member-Owner.
 
 ### Section 7.4  Payment Rights Regarding Member Accounts
 
