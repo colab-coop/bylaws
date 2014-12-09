@@ -18,7 +18,7 @@ Items (a) to (b) in Section 7.2 shall be determined in accordance with generally
 
 (b) Any Loss shall withdrawn from the Collective Account.
 
-(c) Member distributions shall be allocated in direct proportion to hours worked by the individual Members during the fiscal year.
+(c) Member distributions shall be allocated through a formula determined by the board that includeds dispersement in direct proportion to hours worked by the individual Members during the fiscal year, among other criteria. The membership shall ratify the final dispersement plan through consensus.
 
 (d) The Board shall propose a distribution of any Profit and Losses, for the membership to ratify through consensus, annually or at more frequent intervals, as the board sees fit.
 
