@@ -14,13 +14,13 @@ Items (a) to (b) in Section 7.2 shall be determined in accordance with generally
 
 ### Section 7.3  Allocations and Distributions of Profits and Losses
 
-(a) Any Profit shall be credited 70% to Members and 30% to the Collective Account.
+(a) Any Profit shall be credited to the Collective Account.
 
-(b) Any Loss shall be distributed 50% to Member Accounts and 50% to the Collective Account.
+(b) Any Loss shall withdrawn from the Collective Account.
 
 (c) Member distributions shall be allocated in direct proportion to hours worked by the individual Members during the fiscal year.
 
-(d) The Board shall determine and distribute Profit and Losses, in accordance with the distribution percentages provided in this Agreement, annually or at more frequent intervals as it sees fit.
+(d) The Board shall propose a distribution of any Profit and Losses, for the membership to ratify through consensus, annually or at more frequent intervals, as the board sees fit.
 
 ### Section 7.4  Payment Rights Regarding Member Accounts
 
