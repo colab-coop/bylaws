@@ -22,6 +22,8 @@ Items (a) to (b) in Section 7.2 shall be determined in accordance with generally
 
 (d) The Board shall propose a distribution of any Profit and Losses, for the membership to ratify through consensus, annually or at more frequent intervals, as the board sees fit.
 
+(e) If there are any surplus tax liabilities on the Member-Owners arising due to Coop decisions to not distribute the entire profit as bonus, the corporation shall take care of the specific amount of tax liability for each such Member-Owner.
+
 ### Section 7.4  Payment Rights Regarding Member Accounts
 
 (a) When a Member's membership in the Cooperative is terminated, the amount in her/his Member Account will automatically be redeemed in exchange for debt.  The cooperative shall repay the debt within two years of the Membership termination, with interest accruing at the discount rate -- as set by the Federal Reserve Bank nearest to the Member-Owner -- plus two percent (2%), on the amount outstanding at the end of each fiscal year.
