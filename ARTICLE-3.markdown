@@ -8,18 +8,67 @@ The following acts require consensus of the Member Body:
 
 (b)	Bylaw changes that would
 
-	(1)	Materially and adversely affect the rights or obligations of Member-Owners as to voting, dissolution, redemption, transfer, distributions, property rights, or rights to repayment of contributed capital;
+	(1)	Materially and adversely affect the rights or obligations of Member-Owners
+	as to voting, dissolution, redemption, transfer, distributions, property
+	rights, or rights to repayment of contributed capital;
 
-	(2)	Affect an exchange, reclassification or cancellation of all or part of the Memberships;
+	(2)	Affect an exchange, reclassification or cancellation of all or part of the
+	Memberships;
 
 	(3)	Authorize a new class of Memberships
 
 ### Section 3.2  Process of Decision-Making
 
-The Member Body (or interested subset when deciding issues not requiring full consensus of the Member Body) shall attempt to approach all decision-making matters with a goal of seeking consensus. If it becomes apparent that consensus cannot be reached in time for the decision to be relevant or beneficial, the Member Body or interested subset will take action as it sees fit, and will apologize to the full membership that consensus was not reached, and that it will try harder next time.
+The Member Body (or interested subset when deciding issues not requiring full
+consensus of the Member Body) shall attempt to approach all decision-making
+matters with a goal of seeking consensus. If it becomes apparent that consensus
+cannot be reached in time for the decision to be relevant or beneficial, the
+Member Body or interested subset will take action as it sees fit, and will
+apologize to the full membership that consensus was not reached, and that it
+will try harder next time.
 
-Consensus may mean that consensus is reached agreeing that consensus is not necessary for a given issue. Viable alternatives should start with three-fourths majority vote, with decreasing acceptable egalitarianism.
+Consensus may mean that consensus is reached agreeing that consensus is not
+necessary for a given issue. Viable alternatives should start with three-fourths
+majority vote, with decreasing acceptable egalitarianism.
 
 ### Section 3.14  Use of ballots for voting in case consensus is not reached
 
-The protocol for the use of ballots in any way may be determined by the Member Body or by any interested subset by way of consensus or voting depending on if the decision requires consensus as defined in Section 3.1.
+The protocol for the use of ballots in any way may be determined by the Member
+Body or by any interested subset by way of consensus or voting depending on if
+the decision requires consensus as defined in Section 3.1.
+
+### Section 3.4 The Guiding Council (AKA "The Board")
+
+The membership shall form a guiding council to monitor the operations of the
+cooperative, meet regularly to co-create strategic plans, author proposals for
+member ratification, and manage regular affairs needing member review but not
+member consensus.
+
+The council shall meet monthly and review reports from all working groups
+charged with managing the operations of the cooperative. All members shall be
+welcome to participate in all council meetings.
+
+The council shall make decisions following the same consensus process as used
+for membership decisions. All council-persons and members present at a council
+meeting shall be eligible to participate in the decision making processes of any
+council meeting.
+
+The council shall be responsible for decisions regarding allocation of funds,
+hiring of new resources, acceptance of new clients, strategic, marketing and
+branding decisions, and other governance and operational tasks not explicitly
+reserved by the membership.
+
+The council shall be formed at least annually. A group of members shall
+self-assemble and conens among themselves to propose they be authorized the
+council duties by the membership. The membership shall then ratify the council's
+proposed formation according to the membership consensus process. Should the
+membership not ratify the council, another group shall form and propose itself
+as council.
+
+In the event that no group is named council, the entire membership shall take on
+the duties of the council.
+
+The council shall consist of no fewer than 5 and no more than 11 members,
+provided there are sufficient members of the cooperative. Those on the council
+shall seek to engage members not serving on future councils, and shall rotate
+themselves out of council membership as frequently as pragmatically feasible. 
