@@ -1,4 +1,4 @@
-## ARTICLE III:  MEMBERSHIP CONSENSUS
+## ARTICLE III:  MEMBERSHIP CONSENSUS AND GUIDING COUNCIL
 
 ### Section 3.1  Actions Requiring Consensus of the Member Body
 
@@ -22,6 +22,6 @@ Consensus may mean that consensus is reached agreeing that consensus is not nece
 
 If it becomes apparent that consensus cannot be reached in time for the decision to be relevant or beneficial, the Member Body will vote on the following three options: (1) take no action on the decision, (2) put the decision to a 50% minimum vote, (3) disolve the cooperative. Following this vote, there will be a final discussion to see if the consensus can be achieved. If this attempt is not successfuly within a short period of time, the determined course of action will be followed. The vote will be determined through a ranking system and suitable participatory democratic process.
 
-### Section 3.14  Use of ballots for voting in case consensus is not reached
+### Section 3.3  Use of ballots for voting in case consensus is not reached
 
 The protocol for the use of ballots in any way may be determined by the Member Body or by any interested subset by way of consensus or voting depending on if the decision requires consensus as defined in Section 3.1.
