@@ -20,7 +20,15 @@ The Member Body (or interested subset when deciding issues not requiring full co
 
 Consensus may mean that consensus is reached agreeing that consensus is not necessary for a given issue. Viable alternatives should start with three-fourths majority vote, with decreasing acceptable egalitarianism.
 
-If it becomes apparent that consensus cannot be reached in time for the decision to be relevant or beneficial, the Member Body will vote on the following three options: (1) take no action on the decision, (2) put the decision to a 50% minimum vote, (3) disolve the cooperative. Following this vote, there will be a final discussion to see if the consensus can be achieved. If this attempt is not successfuly within a short period of time, the determined course of action will be followed. The vote will be determined through a ranking system and suitable participatory democratic process.
+If it appears that consensus may not be reached in time for the decision to be timely or relavent any member can call a vote to determine if an alternate decision making process may be invoked. In such a vote,  the Member Body will vote on the following three options:
+
+(1) Continue with the consensus process.
+
+(2) Out the decision to a member vote which shall ratify the proposal provided there are no more than 2 members or one quarter of the total membership, whichever is greater, opposed to the proposal.
+
+(3) Defer to the decision of the council.
+
+The decision should be made by Condorcet Vote, followed by discussion and if necessary, re-vote in case of a tie.
 
 ### Section 3.3  Use of ballots for voting in case consensus is not reached
 
