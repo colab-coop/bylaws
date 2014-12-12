@@ -30,6 +30,8 @@ If it appears that consensus may not be reached in time for the decision to be t
 
 The decision should be made by Condorcet Vote, followed by discussion and if necessary, re-vote in case of a tie.
 
+In the case that the need for a decision is iminent and after 24 hours following the calling of a membership decision process vote there is no conclusive result, the Guiding Council shall have the option of taking on the decision, though they will offer the membership and explanation for this course of action. This stipulation does not apply to amendments or changes to these bylaws, which must always be ratified by the full membership.
+
 ### Section 3.3  Use of ballots for voting in case consensus is not reached
 
 The protocol for the use of ballots in any way may be determined by the Member Body or by any interested subset by way of consensus or voting depending on if the decision requires consensus as defined in Section 3.1.
