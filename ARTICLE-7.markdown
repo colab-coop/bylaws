@@ -41,7 +41,3 @@ Upon liquidation, dissolution, or sale of the assets of the Corporation, any ass
 Upon liquidation, dissolution, or sale of the assets of the Corporation, any Remaining Liabilities or debt left after payments from the sale of the assets shall be due and payable by all persons who were Member-Owners at the time of the dissolution, in proportion to the Member-Owners' relative paid labor for the previous and current fiscal year with the Cooperative.  Credit balances in any Collaborator Member or Member-Owner Accounts will be paid only after all debt and liabilities have been paid.
 
 The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Member-Owner Accounts, starting with oldest Member-Owner and proceeding then to the next member remaining in the order of becoming a Member-Owner, finally Collaborator Members.
-
-### Section 7.7  Maintaining Equitable Membership Fees
-
-In order to insure that Membership in the Corporation may remain accessible for persons of modest means, the Corporation will consider flexible options, such as work-trade at a lower wage, with some of the work hours contributing to the membership fee.
