@@ -58,17 +58,23 @@ hiring of new resources, acceptance of new clients, strategic, marketing and
 branding decisions, and other governance and operational tasks not explicitly
 reserved by the membership.
 
-The council shall be formed at least annually. A group of members shall
-self-assemble and conens among themselves to propose they be authorized the
-council duties by the membership. The membership shall then ratify the council's
+The council shall be formed at least annually. All members interested in participating 
+in council shall consense on a set of members to be put before the membership for
+ratification as the Guiding Council. The membership shall then ratify the council's
 proposed formation according to the membership consensus process. Should the
 membership not ratify the council, another group shall form and propose itself
 as council.
+
+Should the group of members interested in participating in council fail to consense on
+a proposed council group the membership shall determine the proposed group through 
+a Condorcet vote considering all members who put themselves forth. The group just formed
+shall be ratified according to the membership consensus process.
 
 In the event that no group is named council, the entire membership shall take on
 the duties of the council.
 
 The council shall consist of no fewer than 3 and no more than 11 members,
 provided there are sufficient members of the cooperative. Those on the council
-shall seek to engage members not serving on future councils, and shall rotate
 themselves out of council membership as frequently as pragmatically feasible. 
+shall seek to recruit any members not serving to serve on future councils, and shall
+rotate on and off council in a manner that provides opportunities for all to participate.
