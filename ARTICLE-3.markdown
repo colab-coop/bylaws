@@ -37,6 +37,20 @@ The protocol for the use of ballots in any way may be determined by the Member
 Body or by any interested subset by way of consensus or voting depending on if
 the decision requires consensus as defined in Section 3.1.
 
+### Section 3.3 Working Groups and Organization Areas
+
+The mebership shall have the option of establishing working grous and delegating
+to those groups decision making authority in specific domains. Each such working 
+group shall have a document specifying its intent, responsibilities, areas of
+decision making, and core membership.
+
+All working groups shall operate democratically, transparently and openly. Their
+decision making process shall follow that of the Guiding Council, defined below.
+
+Working groups shall construe the field of their decision making conservately, and
+work to include the larger membership in decisions that might have wider impacts
+through the organization.
+
 ### Section 3.4 The Guiding Council (AKA "The Board")
 
 The membership shall form a guiding council to monitor the operations of the
