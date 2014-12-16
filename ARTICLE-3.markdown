@@ -70,7 +70,9 @@ council meeting.
 The council shall be responsible for decisions regarding allocation of funds,
 hiring of new resources, acceptance of new clients, strategic, marketing and
 branding decisions, and other governance and operational tasks not explicitly
-reserved by the membership.
+reserved by the membership or delegated to a working group. The council shall
+work to include all substantially impacted members in all decision making 
+processes.
 
 The council shall be formed at least annually. All members interested in participating 
 in council shall consense on a set of members to be put before the membership for
