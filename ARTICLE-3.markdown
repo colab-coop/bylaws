@@ -68,7 +68,7 @@ as council.
 In the event that no group is named council, the entire membership shall take on
 the duties of the council.
 
-The council shall consist of no fewer than 5 and no more than 11 members,
+The council shall consist of no fewer than 3 and no more than 11 members,
 provided there are sufficient members of the cooperative. Those on the council
 shall seek to engage members not serving on future councils, and shall rotate
 themselves out of council membership as frequently as pragmatically feasible. 
