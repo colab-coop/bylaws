@@ -12,15 +12,19 @@ The fiscal year of the Corporation shall end at the close of the business day on
 
 Items (a) to (b) in Section 7.2 shall be determined in accordance with generally accepted accounting principles and shall be computed without regard to any patronage refunds, capital allocations, or income taxes.
 
+"Collective Account" shall be defined as a permanent capital account, not to be distributed to Members.
+
+"Member Accounts" shall be defined as individual accounts for disbursement to Members.
+
 ### Section 7.3  Allocations and Distributions of Profits and Losses
 
 (a) Any Profit shall be credited 70% to Member Accounts and 30% to the Collective Account.
 
 (b) Any Loss shall be distributed 50% to Member Accounts and 50% to the Collective Account.
 
-(c) Member distributions shall be allocated through a formula determined by the board that includeds dispersement in direct proportion to hours worked by the individual Members during the fiscal year, among other criteria. The membership shall ratify the final dispersement plan through consensus.
+(c) Member distributions shall be allocated through a formula specified in policy as approved by the Member Body.
 
-(d) The Board shall propose a distribution of any Profit and Losses, for the membership to ratify through consensus, annually or at more frequent intervals, as the board sees fit.
+(d) If desired, the Council shall propose a distribution of any Profit and Losses, for the membership to ratify through consensus, annually or at more frequent intervals, as the council sees fit.
 
 (e) If there are any surplus tax liabilities on the Member-Owners arising due to Coop decisions to not distribute the entire profit as bonus, the corporation shall take care of the specific amount of tax liability for each such Member-Owner.
 
@@ -40,4 +44,4 @@ Upon liquidation, dissolution, or sale of the assets of the Corporation, any ass
 
 Upon liquidation, dissolution, or sale of the assets of the Corporation, any Remaining Liabilities or debt left after payments from the sale of the assets shall be due and payable by all persons who were Member-Owners at the time of the dissolution, in proportion to the Member-Owners' relative paid labor for the previous and current fiscal year with the Cooperative.  Credit balances in any Collaborator Member or Member-Owner Accounts will be paid only after all debt and liabilities have been paid.
 
-The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Member-Owner Accounts, starting with oldest Member-Owner and proceeding then to the next member remaining in the order of becoming a Member-Owner, finally Collaborator Members.
+The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Member-Owner Accounts, starting with earliest-joined Member-Owner and proceeding then to the next member remaining in the order of becoming a Member-Owner.
