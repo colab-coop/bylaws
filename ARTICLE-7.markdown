@@ -14,9 +14,9 @@ Items (a) to (b) in Section 7.2 shall be determined in accordance with generally
 
 ### Section 7.3  Allocations and Distributions of Profits and Losses
 
-(a) Any Profit shall be credited to the Collective Account.
+(a) Any Profit shall be credited 70% to Member Accounts and 30% to the Collective Account.
 
-(b) Any Loss shall withdrawn from the Collective Account.
+(b) Any Loss shall be distributed 50% to Member Accounts and 50% to the Collective Account.
 
 (c) Member distributions shall be allocated through a formula determined by the board that includeds dispersement in direct proportion to hours worked by the individual Members during the fiscal year, among other criteria. The membership shall ratify the final dispersement plan through consensus.
 
