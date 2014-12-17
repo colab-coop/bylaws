@@ -24,7 +24,7 @@ Any person legally allowed to work within the legal context of CoLab Cooperative
 (g) Have attended at least one board meeting as a witness to understand how the CoLab board works
 (h) Have been reviewed by CoLab members as per the process decided by CoLab board
 (i) Have gone through review discussion with board representatives
-(j) Have worked with CoLab for at least 12 months at the time of final vote of approval as specified in Section 1.2 (k), and has logged at least 1000 hours in the past 12 months.
+(j) Have worked with CoLab for at least 6 months at the time of final vote of approval as specified in Section 1.2 (k), logged at least 300 hours in the past 12 months prior to candidacy, and logged at least 600 hours in the past 12 months prior to final vote of approval as specified in Section 1.2 (k).
 (k) Have been approved by all existing CoLab Member-Owners in a vote organized by CoLab board
 (l) Have ratified (read, agreed, printed, signed, scanned, delivered) CoLab Membership Doctrine
 
