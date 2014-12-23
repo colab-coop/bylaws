@@ -7,16 +7,16 @@ of the business day on the last day of December of each year.
 
 ### Section 7.2 Terms Defined
 
+"Surplus" shall be defined as the excess of revenues and gains
+over expenses and losses for a fiscal year attributed to
+Member-Owners.
+
 "Profit" shall be defined as the excess of revenues and gains
-over expenses and losses for a fiscal year.
+over expenses and losses for a fiscal year attributed to
+non-Member-Owners.
 
 “Loss” shall be defined as the excess of expenses and losses
 over revenues and gains for a fiscal year.
-
-Items (a) to (b) in Section 7.2 shall be determined in
-accordance with generally accepted accounting principles and
-shall be computed without regard to any patronage refunds,
-capital allocations, or income taxes.
 
 "Collective Account" shall be defined as a permanent capital
 account, not to be distributed to Members.
@@ -26,24 +26,27 @@ disbursement to Members.
 
 ### Section 7.3  Allocations and Distributions of Profits and Losses
 
-(a) Any Profit shall be credited 70% to Member Accounts
-    and 30% to the Collective Account.
-
-(b) Any Loss shall be distributed 50% to Member Accounts
+(a) Any Surplus shall be credited 50% to Member Accounts
     and 50% to the Collective Account.
 
-(c) Member distributions shall be allocated through a formula
-    specified in policy as approved by the Member Body.
+(b) Any Profit shall be credited to the Collective Account.
 
-(d) If desired, the Council shall propose a distribution of
-    any Profit and Losses, for the membership to ratify through
-    consensus, annually or at more frequent intervals, as the
-    council sees fit.
+(c) Any Loss shall be distributed 50% to Member Accounts
+    and 50% to the Collective Account.
 
-(e) If there are any surplus tax liabilities on the
-    Member-Owners arising due to Coop decisions to not distribute
-    the entire profit as bonus, the corporation shall take care
-    of the specific amount of tax liability for each such Member-Owner.
+(d) Member distributions shall be allocated direct proportion to
+    hours worked by the individual Members during the fiscal year.
+    No less than 20% of the Member Account distributions shall be
+    paid out within 8.5 months of the of the fiscal year by cash
+    or check. The remaining 80% shall be paid to the member within
+    3 years. Each member of the co-op shall receive a qualified
+    written notice of allocation for the noncash portion of the
+    Member Account distribution.
+
+(e) If desired, the Council shall propose an alternate distribution
+    percentage of any Profit and Losses, for the membership to
+    ratify through consensus, annually or at more frequent
+    intervals, as the council sees fit.
 
 ### Section 7.4  Payment Rights Regarding Member Accounts
 
