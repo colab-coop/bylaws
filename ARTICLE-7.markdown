@@ -3,7 +3,7 @@
 ### Section 7.1  Fiscal Year
 
 The fiscal year of the Corporation shall end at the close
-of the business day on the last day of January of each year.
+of the business day on the last day of December of each year.
 
 ### Section 7.2 Terms Defined
 
