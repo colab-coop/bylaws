@@ -23,6 +23,13 @@ The Member Body (or interested subset when deciding issues not requiring full
 consensus of the Member Body) shall attempt to approach all decision-making
 matters with a goal of seeking consensus.
 
+If they so choose, Members may elect to defer their voice in decision-making to
+a delegate for a specified time. This option may be used, for instance, if a
+member would be absent for a decision-making session such as a meeting. The
+chosen delegate's position on a decision will count as both the delegate's
+position as well as the position of the member who has deferred their position
+to the delegate.
+
 Consensus may mean that consensus is reached agreeing that consensus is not
 necessary for a given issue. Viable alternatives should start with three-fourths
 majority vote, with decreasing acceptable egalitarianism.
