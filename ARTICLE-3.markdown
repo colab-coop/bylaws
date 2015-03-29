@@ -23,12 +23,17 @@ The Member Body (or interested subset when deciding issues not requiring full
 consensus of the Member Body) shall attempt to approach all decision-making
 matters with a goal of seeking consensus.
 
-If they so choose, Members may elect to defer their voice in decision-making to
-a delegate for a specified time. This option may be used, for instance, if a
-member would be absent for a decision-making session such as a meeting. The
-chosen delegate's position on a decision will count as both the delegate's
-position as well as the position of the member who has deferred their position
-to the delegate.
+If they so choose, Members may elect to defer their voice in
+decision-making to a delegate for a specified time or specific vote,
+allowing the delegate to cast a "proxy" vote on their behalf. The
+delegate must be a member of the cooperative, and the proxy vote cast by
+the delegate shall be considered a vote cast by by the Member for
+purposes of determining consensus quorum (all elegible members must
+vote) and final outcome. Members may exercise this option to allow
+decision making processes to proceed in their absence or for decisions
+they wish to remove themselves from for any reason. It is assumed that 
+delegates will vote in accordance with the expressed wishes of the delegating
+member, to the best of their ability.
 
 Consensus may mean that consensus is reached agreeing that consensus is not
 necessary for a given issue. Viable alternatives should start with three-fourths
