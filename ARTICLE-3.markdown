@@ -70,21 +70,7 @@ The protocol for the use of ballots in any way may be determined by the Member
 Body or by any interested subset by way of consensus or voting depending on if
 the decision requires consensus as defined in Section 3.1.
 
-### Section 3.4 Working Groups and Organization Areas
-
-The membership shall have the option of establishing working groups and
-delegating to those groups decision making authority in specific domains. Each
-such working group shall have a document specifying its intent, responsibilities,
-areas of decision making, and core membership.
-
-All working groups shall operate democratically, transparently and openly. Their
-decision making process shall follow that of the Guiding Council, defined below.
-
-Working groups shall construe the field of their decision making conservatively, 
-and work to include the larger membership in decisions that might have wider
-impacts through the organization.
-
-### Section 3.5 The Guiding Council (AKA "The Board")
+### Section 3.4 The Guiding Council (AKA "The Board")
 
 The membership shall form a guiding council to monitor the operations of the
 cooperative, meet regularly to co-create strategic plans, author proposals for
@@ -100,12 +86,9 @@ for membership decisions. All council-persons and members present at a council
 meeting shall be eligible to participate in the decision making processes of any
 council meeting.
 
-The council shall be responsible for decisions regarding allocation of funds,
-hiring of new resources, acceptance of new clients, strategic, marketing and
-branding decisions, and other governance and operational tasks not explicitly
-reserved by the membership or delegated to a working group. The council shall
-work to include all substantially impacted members in all decision making 
-processes.
+The council shall be responsible for decisions not explicitly reserved by the
+membership or delegated to an Org Area. The council shall work to include all
+substantially impacted members in all decision making processes.
 
 The council shall be formed at least annually. All members interested in 
 participating in council shall consense on a set of members to be put before the 
@@ -129,3 +112,24 @@ themselves out of council membership as frequently as pragmatically feasible.
 shall seek to recruit any members not serving to serve on future councils, and 
 shall rotate on and off council in a manner that provides opportunities for all to 
 participate.
+
+### Section 3.5 Org Areas
+
+The membership shall have the option of establishing subsets of the
+membership called "Org Areas" and delegating decision making authority to
+those Org Areas in specific domains as agreed upon by consensus of the
+membership.
+
+A document specifying the intent, responsibilities, areas of decision making,
+and core membership shall be created for each Org Area.
+
+Org Areas shall construe the field of their decision making conservatively, 
+and work to include the larger membership in decisions that might have wider
+impacts through the organization. Decisions that are deemed impactful to
+a larger group than the Org Area shall be reported to the Guiding Council
+in a timely manner. Decisions that are deemd impactful to the entire
+membership shall be brought to the Guiding Council before being taken.
+
+Org Areas shall have the option of establishing further subsets of the
+Org Area, as subcommittees, delegating specific duties and decision-making
+authority to those subcommittees as agreed upon by the Org Area members.
