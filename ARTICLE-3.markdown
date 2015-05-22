@@ -110,8 +110,8 @@ The council shall consist of no fewer than 3 and no more than 11 members,
 provided there are sufficient members of the cooperative. Those on the council
 themselves out of council membership as frequently as pragmatically feasible. 
 shall seek to recruit any members not serving to serve on future councils, and 
-shall rotate on and off council in a manner that provides opportunities for all to 
-participate.
+shall rotate on and off council in a manner that provides opportunities for all
+to participate.
 
 ### Section 3.5 Org Areas
 
@@ -130,6 +130,10 @@ a larger group than the Org Area shall be reported to the Guiding Council
 in a timely manner. Decisions that are deemd impactful to the entire
 membership shall be brought to the Guiding Council before being taken.
 
-Org Areas shall have the option of establishing further subsets of the
-Org Area, as subcommittees, delegating specific duties and decision-making
-authority to those subcommittees as agreed upon by the Org Area members.
+When a decision is required, the Org Area will announce the decision in
+question to the Org Area membership, visible to all Members, in order to
+solicit a working group to execute the decision. The working group will
+consist of the Org Area lead by default. All interested parties from within
+the Org Area and the Membership at large will then follow the process of
+decision making in Section 3.2, generally attempting to find consensus.
+The working group must consist of at least 2 people.
