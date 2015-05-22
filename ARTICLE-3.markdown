@@ -1,4 +1,4 @@
-## ARTICLE III:  MEMBERSHIP CONSENSUS AND GUIDING COUNCIL
+## ARTICLE III:  DECISION-MAKING
 
 ### Section 3.1  Actions Requiring Consensus of the Member Body
 
@@ -13,9 +13,9 @@ The following acts require consensus of the Member Body:
         property rights, or rights to repayment of contributed capital;
 
 	(2)	Affect an exchange, reclassification or cancellation of all or part
-        of theMemberships;
+        of the Membership;
 
-	(3)	Authorize a new class of Memberships
+	(3)	Authorize a new class of Membership
 
 ### Section 3.2  Process of Decision-Making
 
@@ -62,7 +62,8 @@ must offer the membership an apology upon taking action, which shall include an
 explanation of the need for proceeding without member ratification and steps
 taken to ensure any demonstrated concerns of membership were taken into 
 account. This stipulation does not apply to amendments or changes to these 
-bylaws, which must always be ratified by the full membership.
+bylaws as specified in Section 3.1, which must always be ratified by the full
+membership.
 
 ### Section 3.3  Use of ballots for voting in case consensus is not reached
 
