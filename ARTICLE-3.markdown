@@ -114,27 +114,35 @@ shall seek to recruit any members not serving to serve on future councils, and
 shall rotate on and off council in a manner that provides opportunities for all
 to participate.
 
-### Section 3.5 Org Areas
+### Section 3.5 Org Areas and Working Groups
 
 The membership shall have the option of establishing subsets of the
 membership called "Org Areas" and delegating decision making authority to
-those Org Areas in specific domains as agreed upon by consensus of the
-membership.
+those Org Areas in specific domains.
+
+Org Areas shall have Lead positions who are responsible for the day-to-day
+operations of the Org Area responsibilities as well as forming the Working
+Groups (see below) necessary for decisions beyond the scope of day-to-day
+operations. Both the Org Area responsibilities, authorities, and Lead shall
+be agreed upon by consensus of the membership.
 
 A document specifying the intent, responsibilities, areas of decision making,
-and core membership shall be created for each Org Area.
+and Org Area Lead shall be created for each Org Area.
 
 Org Areas shall construe the field of their decision making conservatively, 
 and work to include the larger membership in decisions that might have wider
 impacts through the organization. Decisions that are deemed impactful to
 a larger group than the Org Area shall be reported to the Guiding Council
-in a timely manner. Decisions that are deemd impactful to the entire
+in a timely manner. Decisions that are deemed impactful to the entire
 membership shall be brought to the Guiding Council before being taken.
 
-When a decision is required, the Org Area will announce the decision in
+When a decision that extends beyond the day-to-day operations of the Org
+Area Lead is required, the Org Area Lead will announce the decision in
 question to the Org Area membership, visible to all Members, in order to
 solicit a working group to execute the decision. The working group will
-consist of the Org Area lead by default. All interested parties from within
-the Org Area and the Membership at large will then follow the process of
-decision making in Section 3.2, generally attempting to find consensus.
-The working group must consist of at least 2 people.
+consist of the Org Area Lead by default, but requires the addition of at
+least 1 other member or collaborator. Any member or collaborator who wishes
+to have a say in the decision may join the Working Group.
+
+The Working Group will then follow the process of decision making in Section
+3.2, generally attempting to find consensus.
