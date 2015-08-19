@@ -15,8 +15,10 @@ association applicable to the individual Members comprising
 the Member Body.
 
 (b) Membership Benefits
+
   (1) All Member-Owners are entitled to participate in any
       decision-making process within CoLab.
+
   (2) All Member-Owners are entitled to year end bonus and
       owner benefits as decided collectively by the
       Member Body.
@@ -29,35 +31,46 @@ of this Corporation if the potential Member satisfies the
 following at the discretion of the Member Body:
 
 (a) Expressed interest in being a Member-Owner.
+
 (b) Have worked with CoLab for at least 6 months at the
     time of starting the process of becoming a Member-Owner,
     and has logged at least 600 hours in the past 6 months.
+
 (c) Have had a initial discussion on membership with a CoLab
     official representative, have understood how the process
     works in principle, and what it entails to be a
     Member-Owner.
+
 (d) Have completed buy-in by working pro-bono for CoLab worth
     5000 US$ at the rates agreed upon before starting on the
     membership process. Alternatively, the buy-in can be
     completed by capital contribution.
+
 (e) Have attended one-to-one meetings (facetime) with all
     existing CoLab Member-Owners
+
 (f) Have reached an agreement with CoLab on payment terms for
     various projects (internal and external)
+
 (g) Have attended at least one board meeting as a witness to
     understand how the CoLab board works
+
 (h) Have been reviewed by CoLab members as per the process
     decided by CoLab board
+
 (i) Have gone through review discussion with board
     representatives
+
 (j) Have worked with CoLab for at least 6 months at the time
     of final vote of approval as specified in Section 1.2 (k),
     logged at least 300 hours in the past 12 months prior to
     candidacy, and logged at least 600 hours in the past 12
     months prior to final vote of approval as specified in
     Section 1.2 (k).
+
 (k) Have been approved by all existing CoLab Member-Owners in
     a vote organized by CoLab board
+
 (l) Have ratified (read, agreed, printed, signed, scanned,
     delivered) CoLab Membership Doctrine
 
