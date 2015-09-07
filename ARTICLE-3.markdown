@@ -1,4 +1,4 @@
-## ARTICLE III:  MEMBERSHIP CONSENSUS AND GUIDING COUNCIL
+## ARTICLE III:  DECISION-MAKING
 
 ### Section 3.1  Actions Requiring Consensus of the Member Body
 
@@ -13,9 +13,9 @@ The following acts require consensus of the Member Body:
         property rights, or rights to repayment of contributed capital;
 
 	(2)	Affect an exchange, reclassification or cancellation of all or part
-        of theMemberships;
+        of the Membership;
 
-	(3)	Authorize a new class of Memberships
+	(3)	Authorize a new class of Membership
 
 ### Section 3.2  Process of Decision-Making
 
@@ -62,7 +62,8 @@ must offer the membership an apology upon taking action, which shall include an
 explanation of the need for proceeding without member ratification and steps
 taken to ensure any demonstrated concerns of membership were taken into 
 account. This stipulation does not apply to amendments or changes to these 
-bylaws, which must always be ratified by the full membership.
+bylaws as specified in Section 3.1, which must always be ratified by the full
+membership.
 
 ### Section 3.3  Use of ballots for voting in case consensus is not reached
 
@@ -70,21 +71,7 @@ The protocol for the use of ballots in any way may be determined by the Member
 Body or by any interested subset by way of consensus or voting depending on if
 the decision requires consensus as defined in Section 3.1.
 
-### Section 3.4 Working Groups and Organization Areas
-
-The membership shall have the option of establishing working groups and
-delegating to those groups decision making authority in specific domains. Each
-such working group shall have a document specifying its intent, responsibilities,
-areas of decision making, and core membership.
-
-All working groups shall operate democratically, transparently and openly. Their
-decision making process shall follow that of the Guiding Council, defined below.
-
-Working groups shall construe the field of their decision making conservatively, 
-and work to include the larger membership in decisions that might have wider
-impacts through the organization.
-
-### Section 3.5 The Guiding Council (AKA "The Board")
+### Section 3.4 The Guiding Council (AKA "The Board")
 
 The membership shall form a guiding council to monitor the operations of the
 cooperative, meet regularly to co-create strategic plans, author proposals for
@@ -100,12 +87,9 @@ for membership decisions. All council-persons and members present at a council
 meeting shall be eligible to participate in the decision making processes of any
 council meeting.
 
-The council shall be responsible for decisions regarding allocation of funds,
-hiring of new resources, acceptance of new clients, strategic, marketing and
-branding decisions, and other governance and operational tasks not explicitly
-reserved by the membership or delegated to a working group. The council shall
-work to include all substantially impacted members in all decision making 
-processes.
+The council shall be responsible for decisions not explicitly reserved by the
+membership or delegated to an Org Area. The council shall work to include all
+substantially impacted members in all decision making processes.
 
 The council shall be formed at least annually. All members interested in 
 participating in council shall consense on a set of members to be put before the 
@@ -127,5 +111,38 @@ The council shall consist of no fewer than 3 and no more than 11 members,
 provided there are sufficient members of the cooperative. Those on the council
 themselves out of council membership as frequently as pragmatically feasible. 
 shall seek to recruit any members not serving to serve on future councils, and 
-shall rotate on and off council in a manner that provides opportunities for all to 
-participate.
+shall rotate on and off council in a manner that provides opportunities for all
+to participate.
+
+### Section 3.5 Org Areas and Working Groups
+
+The membership shall have the option of establishing subsets of the
+membership called "Org Areas" and delegating decision making authority to
+those Org Areas in specific domains.
+
+Org Areas shall have Lead positions who are responsible for the day-to-day
+operations of the Org Area responsibilities as well as forming the Working
+Groups (see below) necessary for decisions beyond the scope of day-to-day
+operations. Both the Org Area responsibilities, authorities, and Lead shall
+be agreed upon by consensus of the membership.
+
+A document specifying the intent, responsibilities, areas of decision making,
+and Org Area Lead shall be created for each Org Area.
+
+Org Areas shall construe the field of their decision making conservatively, 
+and work to include the larger membership in decisions that might have wider
+impacts through the organization. Decisions that are deemed impactful to
+a larger group than the Org Area shall be reported to the Guiding Council
+in a timely manner. Decisions that are deemed impactful to the entire
+membership shall be brought to the Guiding Council before being taken.
+
+When a decision that extends beyond the day-to-day operations of the Org
+Area Lead is required, the Org Area Lead will announce the decision in
+question to the Org Area membership, visible to all Members, in order to
+solicit a working group to execute the decision. The working group will
+consist of the Org Area Lead by default, but requires the addition of at
+least 1 other member or collaborator. Any member or collaborator who wishes
+to have a say in the decision may join the Working Group.
+
+The Working Group will then follow the process of decision making in Section
+3.2, generally attempting to find consensus.
