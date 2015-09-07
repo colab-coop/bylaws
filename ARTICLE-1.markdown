@@ -42,9 +42,11 @@ following at the discretion of the Member Body:
     Member-Owner.
 
 (d) Have completed buy-in by working pro-bono for CoLab worth
-    5000 US$ at the rates agreed upon before starting on the
-    membership process. Alternatively, the buy-in can be
-    completed by capital contribution.
+    $5000 USD at the rate agreed upon before starting on the
+    membership process, or alternatively by working 100 hours
+    of pro-bono work at a rate of $50 USD per hour.
+    Alternatively, the buy-in can be completed by capital
+    contribution.
 
 (e) Have attended one-to-one meetings (facetime) with all
     existing CoLab Member-Owners
@@ -76,10 +78,12 @@ following at the discretion of the Member Body:
 
 In case the candidate is no longer in a position to become a
 Member-Owner at any stage of the process, either due to
-his/her own volition or due to the decision of the Member Body,
-CoLab shall refund the full amount equivalent to pro-bono work
-done towards CoLab membership by the candidate, on terms
-mutually decided by CoLab and the candidate.
+his/her own volition or due to the decision of the Member
+Body, CoLab shall refund either the $5000 USD capital buy-in,
+the $5000 USD via pro-bono work, or the full amount candidate
+would have charged CoLab for the 100 hours of work done as
+pro bono towards membership buy-in in case the “$50 USD per
+hour” option was taken.
 
 The Member Body may choose to ignore any or all of the criteria
 stated above.
