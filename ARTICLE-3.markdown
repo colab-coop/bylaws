@@ -80,7 +80,12 @@ member consensus.
 
 The council shall meet monthly and review reports from all working groups
 charged with managing the operations of the cooperative. All members shall be
-welcome to participate in all council meetings.
+welcome to participate in all council meetings. Non-member Collaborators may
+attend the council meeting (without voting participation) if agreed upon by
+consensus of the guiding council.
+
+The minutes recorded during the council meeting shall be made available to the
+general membership within 24 hours of the council meeting.
 
 The council shall make decisions following the same consensus process as used
 for membership decisions. All council-persons and members present at a council
@@ -123,8 +128,9 @@ those Org Areas in specific domains.
 Org Areas shall have Lead positions who are responsible for the day-to-day
 operations of the Org Area responsibilities as well as forming the Working
 Groups (see below) necessary for decisions beyond the scope of day-to-day
-operations. Both the Org Area responsibilities, authorities, and Lead shall
-be agreed upon by consensus of the membership.
+operations. The Org Area's responsibilities and authority shall be agreed
+upon by consensus of the membership. The Org Area's Lead position shall be
+a Member-Owner, and shall be agreed upon by consensus of the membership.
 
 A document specifying the intent, responsibilities, areas of decision making,
 and Org Area Lead shall be created for each Org Area.
