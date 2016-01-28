@@ -26,10 +26,3 @@ A Membership shall immediately terminate upon the death of a Member.
         Member her or his unpaid wages -- until resolution is reached.
         The Member Body may also direct the Member under expulsion order
         to stay off Cooperative property except as necessary by law.
-
-### Section 2.4  Patronage Dispursement Upon Departure
-
-When a Member's membership in the Cooperative is terminated, the amount
-in her/his Member Account (including the original capital contribution)
-will automatically be redeemed in exchange for debt. The Cooperative
-shall repay the debt within three years of the termination.
