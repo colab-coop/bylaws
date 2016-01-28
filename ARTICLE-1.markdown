@@ -113,7 +113,17 @@ work a minimum of 800 hours per year with the Cooperative. Work
 outside of the Cooperative is permitted, so long as the minimum
 hours to the Cooperative are met.
 
-(a) Sabbaticals (time off from the Cooperative) may be taken,
+(a) The minimum 800 hours are tallied at the end of each fiscal
+year.
+
+(b) If the Member does not meet the 800 hour minimum, the guiding
+council shall convene and vote whether or not to maintain the
+Membership status.
+
+(c) If Membership status is acquired mid-year, pro rated hours
+will be considered as counting toward the minimum hours.
+
+(d) Sabbaticals (time off from the Cooperative) may be taken,
 even if the minimum hours are not reached as a result, and
 Membership may still be retained, if and only if the guiding
 council (aka The Board, see Section 3.4) agrees to the
