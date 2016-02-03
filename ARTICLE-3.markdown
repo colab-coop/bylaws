@@ -80,9 +80,9 @@ member consensus.
 
 The council shall meet monthly and review reports from all working groups
 charged with managing the operations of the cooperative. All members shall be
-welcome to participate in all council meetings. Non-member Collaborators may
-attend the council meeting (without voting participation) if agreed upon by
-consensus of the guiding council.
+welcome to participate in all council meetings (without voting participation).
+Non-member Collaborators may attend the council meeting (without voting
+participation) if agreed upon by consensus of the guiding council.
 
 The minutes recorded during the council meeting shall be made available to the
 general membership within 24 hours of the council meeting.
