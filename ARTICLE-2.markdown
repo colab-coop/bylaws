@@ -4,6 +4,7 @@
 
 A Member shall have the right to resign from the Cooperative, effective
 immediately without any action on the part of the Cooperative.
+Initial capital contribution will not be returned.
 
 ### Section 2.2  Death
 
