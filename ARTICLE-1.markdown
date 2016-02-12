@@ -109,14 +109,14 @@ assignee or transferee.
 ### Section 1.5  Maintaining Membership
 
 In order to maintain Membership status, Member-Owners must
-work a minimum of 800 hours per year with the Cooperative. Work
+work a minimum of 600 hours per year with the Cooperative. Work
 outside of the Cooperative is permitted, so long as the minimum
 hours to the Cooperative are met.
 
-(a) The minimum 800 hours are tallied at the end of each fiscal
+(a) The minimum 600 hours are tallied at the end of each fiscal
 year.
 
-(b) If the Member does not meet the 800 hour minimum, the guiding
+(b) If the Member does not meet the 600 hour minimum, the guiding
 council shall convene and vote whether or not to maintain the
 Membership status.
 
