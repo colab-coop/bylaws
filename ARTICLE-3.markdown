@@ -119,6 +119,12 @@ shall seek to recruit any members not serving to serve on future councils, and
 shall rotate on and off council in a manner that provides opportunities for all
 to participate.
 
+For decisions affecting the entire Cooperative, council members may present
+decisions on Loomio (or any other tool agreed upon by the council) for
+council approval. The council members are expected to vote within a period
+of 7 days. If any council member choses not to vote, the definition of
+consensus will be considered as consensus among those who voted.
+
 ### Section 3.5 Org Areas and Working Groups
 
 The membership shall have the option of establishing subsets of the
