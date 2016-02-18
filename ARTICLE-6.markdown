@@ -2,7 +2,7 @@
 
 ### Section 6.1  Articles and Bylaws
 
-The Corporation shall keep at its principal office in New
+The Cooperative shall keep at its principal office in New
 York the original or a copy of its articles and Bylaws as
 amended to date, which shall be open to inspection either
 in-person or online by the Member-Owners.
@@ -18,9 +18,9 @@ Member-Owner.
 
 ### Section 6.3  Inspection of Membership List
 
-(a) Subject to the Corporation's right to set aside a
-Member-Owner's demand for inspection of the Corporations
+(a) Subject to the Cooperative's right to set aside a
+Member-Owner's demand for inspection of the Cooperative's
 Code and the power of the court to limit inspection
-rights, and unless the Corporation provides a reasonable
-alternative, the Corporation shall provide detailed list
+rights, and unless the Cooperative provides a reasonable
+alternative, the Cooperative shall provide detailed list
 of its Members online accessible to all Member-Owners.

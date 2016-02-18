@@ -4,7 +4,8 @@
 
 (a) Definition: Member-Owners are Members of the Cooperative
 who have completed the Member review process, paid full
-buy-in investment by capital investment or pro-bono work.
+buy-in investment by capital investment or by work counting
+directly toward capital investment.
 
 (b) Definition: The Member Body is comprised of all
 Member-Owners currently active with CoLab Cooperative
@@ -41,12 +42,12 @@ following at the discretion of the Member Body:
     works in principle, and what it entails to be a
     Member-Owner.
 
-(d) Have completed buy-in by working pro-bono for CoLab worth
-    $5000 USD at the rate agreed upon before starting on the
-    membership process, or alternatively by working 100 hours
-    of pro-bono work at a rate of $50 USD per hour.
-    Alternatively, the buy-in can be completed by capital
-    contribution.
+(d) Have completed buy-in by working for CoLab a number of
+    hours worth $5000 USD at the rate agreed upon before
+    starting on the membership process, or by working 100
+    hours of work at a rate of $50 USD per hour, counted
+    directly toward capital investment. Alternatively, the
+    buy-in can be completed by direct capital contribution.
 
 (e) Have attended one-to-one meetings (facetime) with all
     existing CoLab Member-Owners
@@ -80,13 +81,13 @@ In case the candidate is no longer in a position to become a
 Member-Owner at any stage of the process, either due to
 his/her own volition or due to the decision of the Member
 Body, CoLab shall refund either the $5000 USD capital buy-in,
-the $5000 USD via pro-bono work, or the full amount candidate
-would have charged CoLab for the 100 hours of work done as
-pro bono towards membership buy-in in case the “$50 USD per
-hour” option was taken.
+the $5000 USD via hours worked toward capital investment, or
+the full amount candidate would have charged CoLab for the 100
+hours of work done towards capital investment in case the “$50
+USD per hour” option was taken.
 
 The Member Body may choose to ignore any or all of the criteria
-stated above.
+stated above, upon consensus.
 
 ### Section 1.3  Acceptance of Member-Owners
 
@@ -104,3 +105,32 @@ No Member-Owner may transfer her or his Membership or any right
 arising there from.  Any attempted assignment or transfer shall
 be wholly void and shall confer no rights on the intended
 assignee or transferee.
+
+### Section 1.5  Maintaining Membership
+
+In order to maintain Membership status, Member-Owners must
+work a minimum of 600 hours per year with the Cooperative. Work
+outside of the Cooperative is permitted, so long as the minimum
+hours to the Cooperative are met.
+
+(a) The minimum 600 hours are tallied at the end of each fiscal
+year.
+
+(b) If the Member does not meet the 600 hour minimum, the guiding
+council shall convene and vote whether or not to maintain the
+Membership status.
+
+(c) If Membership status is acquired mid-year, pro rated hours
+will be considered as counting toward the minimum hours.
+
+(d) Sabbaticals (time off from the Cooperative) may be taken,
+even if the minimum hours are not reached as a result, and
+Membership may still be retained, if and only if the guiding
+council (aka The Board, see Section 3.4) agrees to the
+sabbatical by consensus.
+
+### Section 1.6  Non-Member Collaborators
+
+Non-Member Collaborators are defined as consultants that may
+work with CoLab Cooperative, but do not have the rights and
+responsibilities of CoLab Member-Owners.

@@ -2,7 +2,7 @@
 
 ### Section 7.1  Fiscal Year
 
-The fiscal year of the Corporation shall end at the close
+The fiscal year of the Cooperative shall end at the close
 of the business day on the last day of December of each year.
 
 ### Section 7.2 Terms Defined
@@ -13,7 +13,7 @@ Member-Owners.
 
 "Profit" shall be defined as the excess of revenues and gains
 over expenses and losses for a fiscal year attributed to
-non-Member-Owners.
+non-Member Collaborators.
 
 “Loss” shall be defined as the excess of expenses and losses
 over revenues and gains for a fiscal year.
@@ -39,7 +39,7 @@ disbursement to Members.
     No less than 20% of the Member Account distributions shall be
     paid out within 8.5 months of the of the fiscal year by cash
     or check. The remaining 80% shall be paid to the member within
-    3 years. Each member of the co-op shall receive a qualified
+    3 years. Each member of the Cooperative shall receive a qualified
     written notice of allocation for the noncash portion of the
     Member Account distribution.
 
@@ -60,28 +60,28 @@ disbursement to Members.
 
 (b) The Cooperative, in settling a Member Account, shall have the
     right to set off any and all indebtedness of the former Member
-    to the Corporation.
+    to the Cooperative.
 
 ### Section 7.5  Unclaimed Equity Interests
 
-Any proprietary interest in the Corporation held by a Member that
+Any proprietary interest in the Cooperative held by a Member that
 would otherwise escheat to the State the Member is living in as
 unclaimed personal property shall instead become the property of
-the Corporation if the Corporation gives at least 60 days prior
+the Cooperative if the Cooperative gives at least 60 days prior
 notice of the proposed transfer to the affected Member by (1)
 first-class or second-class mail to the last address of the Member
-shown on the Corporation's records, and (2) by publication in a
+shown on the Cooperative's records, and (2) by publication in a
 newspaper of general circulation in the county in which the
-Corporation has its principal office.  No property or funds shall
-become the property of the Corporation under this section if
+Cooperative has its principal office.  No property or funds shall
+become the property of the Cooperative under this section if
 written notice objecting to the transfer is received by the
-Corporation from the affected Member prior to the date of the
+Cooperative from the affected Member prior to the date of the
 proposed transfer.
 
 ### Section 7.6  Dissolution Distributions and Remaining Liabilities
 
 Upon liquidation, dissolution, or sale of the assets of the
-Corporation, any assets left after payment of all debts and
+Cooperative, any assets left after payment of all debts and
 Member-Owner Account balances shall be distributed to all persons
 who were Collaborator Members, in proportion to the Collaborator
 Members' account balances. No distribution need be made to any
@@ -92,7 +92,7 @@ distribution of any residual assets, to the person's last know
 business or residence.
 
 Upon liquidation, dissolution, or sale of the assets of the
-Corporation, any Remaining Liabilities or debt left after payments
+Cooperative, any Remaining Liabilities or debt left after payments
 from the sale of the assets shall be due and payable by all persons
 who were Member-Owners at the time of the dissolution, in proportion
 to the Member-Owners' relative paid labor for the previous and
