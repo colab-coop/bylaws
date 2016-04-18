@@ -4,7 +4,11 @@
 
 A Member shall have the right to resign from the Cooperative, effective
 immediately without any action on the part of the Cooperative.
-Initial capital contribution will not be returned.
+
+Initial capital contribution will be returned immediately if the
+Collective Account (see Article 7) is deemed sufficient to support the
+return. Otherwise, initial capital contribution will be returned in
+installments such that the Collective Account can support it.
 
 ### Section 2.2  Death
 
