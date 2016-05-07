@@ -5,14 +5,20 @@
 A Member shall have the right to resign from the Cooperative, effective
 immediately without any action on the part of the Cooperative.
 
-Initial capital contribution will be returned immediately if the
-Collective Account (see Article 7) is deemed sufficient to support the
-return. Otherwise, initial capital contribution will be returned in
-installments such that the Collective Account can support it.
+Initial capital contribution will be returned immediately or deferred to
+installments depending on the Guiding Council's determination concerning
+the Collective Account (see Article 7) and the Cooperative's strategic
+planning. The Guiding Council has 30 days to come to a decision whether
+to return the ICC immediately or to defer to installments. If deferred
+installments is chosen, the terms shall be decided at the same time. The
+terms shall last no longer than 1 year after the Member has resigned.
 
 ### Section 2.2  Death
 
 A Membership shall immediately terminate upon the death of a Member.
+
+Initial capital contribution will not be returned in case of death of
+Member.
 
 ### Section 2.3  Expulsion
 
@@ -31,3 +37,6 @@ A Membership shall immediately terminate upon the death of a Member.
         Member her or his unpaid wages -- until resolution is reached.
         The Member Body may also direct the Member under expulsion order
         to stay off Cooperative property except as necessary by law.
+
+Initial capital contribution will not be returned in case of expulsion
+of Member.
