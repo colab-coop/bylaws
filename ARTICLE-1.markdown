@@ -36,45 +36,49 @@ following at the discretion of the Member Body:
 (b) Have worked with CoLab for at least 6 months at the
     time of starting the process of becoming a Member-Owner,
     and has logged at least 600 hours in the past 6 months.
+    
+(c) Have been ratified by the membership for "Member Candidacy" 
+    prior to accruing or contributing funds toward their member 
+    buy-in.
 
-(c) Have had a initial discussion on membership with a CoLab
+(d) Have had a initial discussion on membership with a CoLab
     official representative, have understood how the process
     works in principle, and what it entails to be a
     Member-Owner.
 
-(d) Have completed buy-in by working for CoLab a number of
+(e) Have completed buy-in by working for CoLab a number of
     hours worth $5000 USD at the rate agreed upon before
     starting on the membership process, or by working 100
     hours of work at a rate of $50 USD per hour, counted
     directly toward capital investment. Alternatively, the
     buy-in can be completed by direct capital contribution.
 
-(e) Have attended one-to-one meetings (facetime) with all
+(f) Have attended one-to-one meetings (facetime) with all
     existing CoLab Member-Owners
 
-(f) Have reached an agreement with CoLab on payment terms for
+(g) Have reached an agreement with CoLab on payment terms for
     various projects (internal and external)
 
-(g) Have attended at least one board meeting as a witness to
+(h) Have attended at least one board meeting as a witness to
     understand how the CoLab board works
 
-(h) Have been reviewed by CoLab members as per the process
+(i) Have been reviewed by CoLab members as per the process
     decided by CoLab board
 
-(i) Have gone through review discussion with board
+(j) Have gone through review discussion with board
     representatives
 
-(j) Have worked with CoLab for at least 6 months at the time
+(k) Have worked with CoLab for at least 6 months at the time
     of final vote of approval as specified in Section 1.2 (k),
     logged at least 300 hours in the past 12 months prior to
     candidacy, and logged at least 600 hours in the past 12
     months prior to final vote of approval as specified in
     Section 1.2 (k).
 
-(k) Have been approved by all existing CoLab Member-Owners in
+(l) Have been approved by all existing CoLab Member-Owners in
     a vote organized by CoLab board
 
-(l) Have ratified (read, agreed, printed, signed, scanned,
+(m) Have ratified (read, agreed, printed, signed, scanned,
     delivered) CoLab Membership Doctrine
 
 In case the candidate is no longer in a position to become a
