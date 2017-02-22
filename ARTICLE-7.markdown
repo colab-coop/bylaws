@@ -31,8 +31,7 @@ disbursement to Members.
 
 (b) Any Profit shall be credited to the Collective Account.
 
-(c) Any Loss shall be distributed 50% to Member Accounts
-    and 50% to the Collective Account.
+(c) Any Loss shall be applied to the Collective Account.
 
 (d) Member distributions shall be allocated direct proportion to
     hours worked by the individual Members during the fiscal year.
