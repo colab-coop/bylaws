@@ -70,8 +70,10 @@ following at the discretion of the Member Body:
 
 (k) Have worked with CoLab for at least 12 months at the time
     of final vote of membership approval, and logged at least
-    300 hours in the past 6 months prior to final vote of
-    membership approval (at least 600 hours in total)
+    600 hours in the past 12 months prior to final vote of
+    membership approval, out of which at least 300 hours
+    should have been logged in the past 6 months prior to
+    final vote of membership approval
 
 (l) Have been approved by all existing CoLab Member-Owners in
     a vote organized by CoLab board
