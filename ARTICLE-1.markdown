@@ -33,9 +33,9 @@ following at the discretion of the Member Body:
 
 (a) Expressed interest in being a Member-Owner.
 
-(b) Have worked with CoLab for at least 6 months at the
-    time of starting the process of becoming a Member-Owner,
-    and has logged at least 600 hours in the past 6 months.
+(b) Have worked with CoLab for at least 6 months at the time
+    of "Member Candidacy" vote, and has logged at least 300
+    hours in those past 6 months.
     
 (c) Have been ratified by the membership for "Member Candidacy" 
     prior to accruing or contributing funds toward their member 
@@ -68,12 +68,12 @@ following at the discretion of the Member Body:
 (j) Have gone through review discussion with board
     representatives
 
-(k) Have worked with CoLab for at least 6 months at the time
-    of final vote of approval as specified in Section 1.2 (k),
-    logged at least 300 hours in the past 12 months prior to
-    candidacy, and logged at least 600 hours in the past 12
-    months prior to final vote of approval as specified in
-    Section 1.2 (k).
+(k) Have worked with CoLab for at least 12 months at the time
+    of final vote of membership approval, and logged at least
+    600 hours in the past 12 months prior to final vote of
+    membership approval, out of which at least 300 hours
+    should have been logged in the past 6 months prior to
+    final vote of membership approval
 
 (l) Have been approved by all existing CoLab Member-Owners in
     a vote organized by CoLab board
