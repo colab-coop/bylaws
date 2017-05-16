@@ -75,10 +75,12 @@ the decision requires consensus as defined in Section 3.1.
 
 The membership shall form a guiding council to monitor the operations of the
 cooperative, meet regularly to co-create strategic plans, author proposals for
-member ratification, and manage regular affairs needing member review but not
-member consensus.
+member ratification, and manage regular affairs deemed more impactful than
+the Org Areas (see below) have authority to manage, but not yet so impactful
+as to require entire membership consensus. The council shall work to include all
+substantially impacted members in all decision making processes.
 
-The council shall meet monthly and review reports from all working groups
+The council shall meet monthly and review reports from all Org Areas
 charged with managing the operations of the cooperative. All members shall be
 welcome to participate in all council meetings (without voting participation).
 Non-member Collaborators may attend the council meeting (without voting
@@ -91,10 +93,6 @@ The council shall make decisions following the same consensus process as used
 for membership decisions. All council-persons and members present at a council
 meeting shall be eligible to participate in the decision making processes of any
 council meeting.
-
-The council shall be responsible for decisions not explicitly reserved by the
-membership or delegated to an Org Area. The council shall work to include all
-substantially impacted members in all decision making processes.
 
 The council shall be formed at least annually. All members interested in 
 participating in council shall consense on a set of members to be put before the 
@@ -114,10 +112,10 @@ on the duties of the council.
 
 The council shall consist of no fewer than 3 and no more than 11 members,
 provided there are sufficient members of the cooperative. Those on the council
-themselves out of council membership as frequently as pragmatically feasible. 
-shall seek to recruit any members not serving to serve on future councils, and 
-shall rotate on and off council in a manner that provides opportunities for all
-to participate.
+shall seek to engage members not serving to serve on future councils, and
+shall rotate themselves out of council membership as frequently as
+pragmatically feasible in a manner that provides opportunities for
+all coop members to participate.
 
 For decisions affecting the entire Cooperative, council members may present
 decisions on Loomio (or any other tool agreed upon by the council) for
