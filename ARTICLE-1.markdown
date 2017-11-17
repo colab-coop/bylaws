@@ -95,13 +95,7 @@ stated above, upon consensus.
 
 ### Section 1.3  Acceptance of Member-Owners
 
-(a)	Any subset of the Member Body so inclined, or an
-empowered hiring committee appointed by the interested subset
-of the Member Body shall review applications, instate a period
-of member candidacy, and once criteria stated above are
-established or ignored by the interested subset of the Member
-Body, shall give an offer of Member-Ownership to the potential
-Member-Owner.
+(a)	Empowered comittee appointed by guiding council (aka The Board, see Section 3.4) shall give an offer of Member-Ownership to the potential Member-Owner once criteria stated have been met.
 
 ### Section 1.4  Transfers Prohibited
 
@@ -112,22 +106,26 @@ assignee or transferee.
 
 ### Section 1.5  Maintaining Membership
 
-In order to maintain Membership status, Member-Owners must
-work a minimum of 600 hours per year with the Cooperative. Work
-outside of the Cooperative is permitted, so long as the minimum
-hours to the Cooperative are met.
+In order to maintain Membership status, Member-Owners must:
+
+(a) work a minimum of 600 hours per year with the Cooperative. If Membership status is acquired mid-year, pro rated hours will be considered as counting toward the minimum hours. Work outside of the Cooperative is permitted, so long as the minimum hours to the Cooperative are met.
+
+(b) attend 3 out of last 4 board meetings
+
+(c) must participate in 6 of the last 8 loomio proposals
+
+(d) must attend 2 out of 3 summits in the year
+
+If the Member does not meet the criteria mentioned above to maintain membership, the guiding council shall convene and vote whether or not to maintain the Membership status. See Section 2.3 for expulsion proceedings and details.
+
+#### Notes
 
 (a) The minimum 600 hours are tallied at the end of each fiscal
-year.
-
-(b) If the Member does not meet the 600 hour minimum, the guiding
+year. If the Member does not meet the 600 hour minimum, the guiding
 council shall convene and vote whether or not to maintain the
 Membership status.
 
-(c) If Membership status is acquired mid-year, pro rated hours
-will be considered as counting toward the minimum hours.
-
-(d) Sabbaticals (time off from the Cooperative) may be taken,
+(b) Sabbaticals (time off from the Cooperative) may be taken,
 even if the minimum hours are not reached as a result, and
 Membership may still be retained, if and only if the guiding
 council (aka The Board, see Section 3.4) agrees to the
