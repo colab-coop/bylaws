@@ -116,7 +116,7 @@ In order to maintain Membership status, Member-Owners must:
 
 (d) must attend 2 out of 3 summits in the year
 
-If the Member does not meet the criteria mentioned above to maintain membership, the guiding council shall convene and vote whether or not to maintain the Membership status. See Section 2.3 for expulsion proceedings and details.
+Every member is supposed to meet the above criteria unless there are extenuating circumstances. In case a member is unable to meet the above criteria, the guiding council shall ask clarifications from the member. If the guiding council is convinced, the matter is dropped, otherwise the guiding council can convene and vote either to warn the member or to end the membership status of the faulty member based on the member's clarifications. See Section 2.3 for expulsion proceedings and details.
 
 #### Notes
 
