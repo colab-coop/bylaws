@@ -156,3 +156,31 @@ to have a say in the decision may join the Working Group.
 
 The Working Group will then follow the process of decision making in Section
 3.2, generally attempting to find consensus.
+
+### Section 3.6 Compensation of Governance Activities
+
+All member owners shall received a fixed monthly stipend for participation in
+all-coop governance activities, including attendance at a weekly member meeting.
+
+All board members shall receive an additional stipend for participation in board
+meetings, preparation, and liaisoning between the board and the member and
+non-member bodies.
+
+The amount of both stipends will be determined by all member decision.
+
+Member owners are expected to join all weekly member meetings. Members who miss
+more than one meeting will not receive their stipend for that month unless the
+membership votes that they have shown adequate participation outside of the
+meeting time to compensate for the missed meetings.
+
+Likewise, board members are expected to attend all board meetings. Board members
+who miss more than one board meeting in a 12 month period will not receive their
+monthly board stipend for any months after the first in which they miss a
+meeting, unless the board votes that they have demonstrated adequate
+participation in asynchronous decision and discussion threads to compensate for
+the missed meeting.
+
+If a member misses more than one weekly member meeting in a month, they will be
+expected to participate in an equal amount of time via pro-active sharing of
+notes ahead of the meeting, review of notes after, response to all direct
+queries.
