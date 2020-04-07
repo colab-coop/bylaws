@@ -99,8 +99,8 @@ current fiscal year with the Cooperative.  Credit balances in any
 Invested Member Accounts will be paid only after all debt and
 liabilities have been paid.
 
-The order of repayment will be as follows: Debt and liabilities to
-non-Members (e.g. vendors, landlord, employees, etc.), then
-Invested Member Accounts, starting with earliest-joined Invested
-Member and proceeding then to the next member remaining in the order of
-becoming an Invested Member.
+The order of repayment will be as follows: Debt and liabilities
+(e.g. vendors, landlord, employees, etc.) to Provisional Members,
+then debts and liabilities to Working Members, then to Invested Member
+Accounts, starting with earliest-joined Invested Member and proceeding
+then to the next member remaining in the order of becoming an Invested Member.
