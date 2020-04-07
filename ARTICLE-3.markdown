@@ -4,9 +4,7 @@
 
 The following acts require consensus of the Member Body:
 
-(a)	Acceptance of a new Member-Owner,
-
-(b)	Bylaw changes that would
+(a)	Bylaw changes that would
 
 	(1)	Materially and adversely affect the rights or obligations of
         Member-Owner as to voting, dissolution, redemption, transfer, distributions,
@@ -19,109 +17,110 @@ The following acts require consensus of the Member Body:
 
 ### Section 3.2  Process of Decision-Making
 
-The Member Body (or interested subset when deciding issues not requiring full
-consensus of the Member Body) shall attempt to approach all decision-making
+The Member Body, the Board, and any other decision-making bodies within CoLab,
+as appropriate, shall at all times attempt to approach all decision-making
 matters with a goal of seeking consensus.
 
-If they so choose, Members may elect to defer their voice in
-decision-making to a delegate for a specified time or specific vote,
-allowing the delegate to cast a "proxy" vote on their behalf. The
-delegate must be a member of the cooperative, and the proxy vote cast by
-the delegate shall be considered a vote cast by by the Member for
-purposes of determining consensus quorum (all elegible members must
-vote) and final outcome. Members may exercise this option to allow
+If they so choose, Members may elect to defer their voice in decision-making
+to a delegate for a specified time or specific vote, allowing the delegate to
+cast a "proxy" vote on their behalf. The delegate must be a member of the
+cooperative, and the proxy vote cast by the delegate shall be considered a vote
+cast by by the Member for purposes of determining consensus quorum (all eligible
+members must vote) and final outcome. Members may exercise this option to allow
 decision making processes to proceed in their absence or for decisions
 they wish to remove themselves from for any reason. It is assumed that 
 delegates will vote in accordance with the expressed wishes of the delegating
 member, to the best of their ability.
 
 Consensus may mean that consensus is reached agreeing that consensus is not
-necessary for a given issue. Viable alternatives should start with three-fourths
-majority vote, with decreasing acceptable egalitarianism.
+necessary or possible for a given issue. Viable alternatives should start with
+three-fourths majority vote, with decreasing majorities being decreasingly
+acceptable. The worst possible alternative is simple majority.
 
 If it appears that consensus may not be reached in time for the decision to be
-timely or relevant any member can call a vote to determine if an alternate
-decision making process may be invoked. In such a vote, the Member Body will
-vote on the following three options:
+timely or relevant any Member can call a vote to determine if an alternate
+decision making process may be invoked. In such a vote, the decision-making body
+will vote on the following three options:
 
 (1) Continue with the consensus process.
 
-(2) Out the decision to a member vote which shall ratify the proposal provided
-there are no more than 2 members or one quarter of the total membership,
-whichever is greater, opposed to the proposal.
-
-(3) Defer to the decision of the council.
+(2) Defer to the decision of the Board.
 
 The decision should be made by Condorcet Vote, followed by discussion and if
 necessary, re-vote in case of a tie.
 
-In the case that the need for a decision is imminent and after 24 hours following
-the calling of a membership decision process vote there is no conclusive result,
-the Guiding Council shall have the option of taking on the decision, though they
-must offer the membership an apology upon taking action, which shall include an
-explanation of the need for proceeding without member ratification and steps
-taken to ensure any demonstrated concerns of membership were taken into 
-account. This stipulation does not apply to amendments or changes to these 
-bylaws as specified in Section 3.1, which must always be ratified by the full
-membership.
+In the case that the need for a entire-cooperative-affecting decision is
+imminent and after 24 hours following the calling of a membership decision
+process vote there is no conclusive result, the Board shall have the option
+of invoking emergency executive powers, though they must offer the membership
+an apology upon taking action, which shall include an explanation of the need
+for proceeding without member ratification and steps taken to ensure any
+demonstrated concerns of membership were taken into account. This stipulation
+does not apply to amendments or changes to these bylaws as specified in
+Section 3.1, which must always be ratified by the full membership.
 
 ### Section 3.3  Use of ballots for voting in case consensus is not reached
 
-The protocol for the use of ballots in any way may be determined by the Member
-Body or by any interested subset by way of consensus or voting depending on if
-the decision requires consensus as defined in Section 3.1.
+The protocol for the use of ballots in any way may be determined by the
+decision-making body or by any interested subset by way of consensus or voting
+depending on if the decision requires consensus as defined in Section 3.1.
 
-### Section 3.4 The Guiding Council (AKA "The Board")
+### Section 3.4 The Board
 
-The membership shall form a guiding council to monitor the operations of the
+The membership shall form a Board to monitor the operations of the
 cooperative, meet regularly to co-create strategic plans, author proposals for
 member ratification, and manage regular affairs deemed more impactful than
 the Org Areas (see below) have authority to manage, but not yet so impactful
-as to require entire membership consensus. The council shall work to include all
+as to require entire membership consensus. The Board shall work to include all
 substantially impacted members in all decision making processes.
 
-The council shall meet monthly and review reports from all Org Areas
+The Board shall meet monthly and review reports from all Org Areas
 charged with managing the operations of the cooperative. All members shall be
-welcome to participate in all council meetings (without voting participation).
-Non-member Collaborators may attend the council meeting (without voting
-participation) if agreed upon by consensus of the guiding council.
+welcome to attend all Board Meetings without voting participation.
 
-The minutes recorded during the council meeting shall be made available to the
-general membership within 24 hours of the council meeting.
+Two-thirds of the Board members constitutes a quorum for Board meetings.
 
-The council shall make decisions following the same consensus process as used
-for membership decisions. All council-persons and members present at a council
-meeting shall be eligible to participate in the decision making processes of any
-council meeting.
+A simple majority of the members constitutes a quorum at a meeting of the
+Member Body.
 
-The council shall be formed at least annually. All members interested in 
-participating in council shall consense on a set of members to be put before the 
-membership for ratification as the Guiding Council. The membership shall then 
-ratify the council's proposed formation according to the membership consensus 
-process. Should the membership not ratify the council, another group shall form 
-and propose itself as council.
+All strategic, Coop-wide decisions shall be made by the Board, except that the
+following acts require voting by the Member Body:
 
-Should the group of members interested in participating in council fail to
-consense on a proposed council group the membership shall determine the
-proposed group through a Condorcet vote considering all members who put
-themselves forth. The group just formed shall be ratified according to the
-membership consensus process.
+* Acceptance of new Invested Members;
+* Election of or changes to the qualifications or number of Board members;
+* Bylaw changes that would materially affect the rights or obligations of
+  members at any level as to voting, dissolution, redemption, transfer,
+  distributions, patronage property rights, or rights to repayment of
+  contributed capital;
+* Bylaws changes to membership definitions
 
-In the event that no group is named council, the entire membership shall take
-on the duties of the council.
+The full minutes recorded during the Board meeting shall be made available
+to all Invested Members within 24 hours of the Board meeting.
 
-The council shall consist of no fewer than 3 and no more than 11 members,
-provided there are sufficient members of the cooperative. Those on the council
-shall seek to engage members not serving to serve on future councils, and
-shall rotate themselves out of council membership as frequently as
-pragmatically feasible in a manner that provides opportunities for
-all coop members to participate.
+A redacted version, with sensitive financial, legal, and personnel
+information removed, will be available to Provisional and Working Members
+within 48 hours of the meeting. 
 
-For decisions affecting the entire Cooperative, council members may present
-decisions on Loomio (or any other tool agreed upon by the council) for
-council approval. The council members are expected to vote within a period
-of 7 days. If any council member choses not to vote, the definition of
-consensus will be considered as consensus among those who voted.
+The Board shall make decisions following the same consensus process as
+described in Section 3.2.
+
+The Board shall be elected annually by a vote of members of all membership
+levels, using the Simple Transferable Vote process.
+
+In the event of a vacancy on the Board (for example, if an elected Board
+member loses their CoLab membership), the Board will call a new Board election.
+
+The Board shall consist 7 elected Invested Members and 2 elected Working
+Members, provided there are sufficient members of the cooperative. Those
+on the Board shall seek to engage members not serving to serve on future
+Boards, and shall rotate themselves out of elections for the Board
+membership as frequently as pragmatically feasible in a manner that provides
+opportunities for all coop members to participate.
+
+Board members may present decisions on Loomio (or any other tool agreed
+upon by the Board) for Board approval. Board members are expected to vote
+within a period of 7 days. If any Board member choses not to vote, the
+definition of consensus will be considered as consensus among those who voted.
 
 ### Section 3.5 Org Areas and Working Groups
 
@@ -134,7 +133,8 @@ operations of the Org Area responsibilities as well as forming the Working
 Groups (see below) necessary for decisions beyond the scope of day-to-day
 operations. The Org Area's responsibilities and authority shall be agreed
 upon by consensus of the membership. The Org Area's Lead position shall be
-a Member-Owner, and shall be agreed upon by consensus of the membership.
+filled by an Invested Member or a Working Member, and shall be agreed upon
+by the Board.
 
 A document specifying the intent, responsibilities, areas of decision making,
 and Org Area Lead shall be created for each Org Area.
