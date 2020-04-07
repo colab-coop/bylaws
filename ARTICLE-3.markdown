@@ -61,7 +61,9 @@ the Guiding Council shall have the option of taking on the decision, though they
 must offer the membership an apology upon taking action, which shall include an
 explanation of the need for proceeding without member ratification and steps
 taken to ensure any demonstrated concerns of membership were taken into 
-account. This stipulation does not apply to amendments or changes to these 
+account. 
+
+This stipulation **DOES NOT** apply to amendments or changes to these 
 bylaws as specified in Section 3.1, which must always be ratified by the full
 membership.
 
