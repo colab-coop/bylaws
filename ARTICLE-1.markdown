@@ -2,13 +2,13 @@
 
 ### Section 1.1  Classification of Members
 
-(a) Definition: Invested Members are Members of the Cooperative who have completed the Member review process, paid full buy-in investment by capital investment or by work counting directly toward capital investment.
+(a) Definition: Invested Members are Members of the Cooperative who have completed the Member review process and paid full buy-in investment by capital investment or by work counting directly toward capital investment.
 
-(b) Definition: Working Members are CoLabrs who have followed the processes defined in section 1.3 for promotion from Provisional Membership to Working Membership.
+(b) Definition: Working Members are Members of the Cooperative who have followed the processes defined in section 1.3 for promotion from Provisional Membership to Working Membership.
 
-(c) Definition: Provisional Members are CoLabrs who have followed the processes defined in section 1.2 for promotion from Friend of CoLab.
+(c) Definition: Provisional Members are Members of the Cooperative who have followed the processes defined in section 1.2 for promotion from Friend of CoLab.
 
-(d) Definition: Friends of CoLab are CoLabrs who are not currently members at any level.
+(d) Definition: Friends of CoLab are people who have worked at CoLab in any capacity who are not currently members at any level.
 
 (e) Definition: The Member Body is composed of all members at all levels currently active with CoLab Cooperative Incorporated.
 
@@ -29,7 +29,7 @@ The Board may waive any of these requirements. Board decisions around qualificat
 
 (c) Acceptance
 
-The Team Org Area will track Friends of CoLabr and will notify them and the Board when they fulfill the qualifications.
+The Team Org Area will track Friends of CoLab and will notify them and the Board when they fulfill the qualifications.
 
 Unless the Board votes to block, the member is promoted.
 
@@ -78,9 +78,9 @@ Any person legally allowed to work within the legal context of CoLab Cooperative
 
 5. Have had a initial discussion on Invested Membership with a CoLab official representative, have understood how the process works in principle, and what it entails to be an Invested Member.
 
-6. Have completed buy-in by working for CoLab a number of hours worth $5000 USD at the rate agreed upon before starting on the membership process, or by working 100 hours of work at a rate of $50 USD per hour, counted directly toward capital investment. Alternatively, the buy-in can be completed by direct capital contribution.
+6. Have completed buy-in by contributing work to CoLab for a number of hours worth $5000 USD at CoLab Standard Rates, counted directly toward capital investment. Alternatively, the buy-in can be completed by direct capital contribution.
 
-7. Have attended one-to-one meetings (facetime) with all existing CoLab Invested Members.
+7. Have attended one-to-one meetings (in person or via online video meeting) with all existing CoLab Invested Members.
 
 8. Have attended at least one Board Meeting as a witness to understand how the CoLab Board works.
 
@@ -116,7 +116,3 @@ In order to maintain Membership status, members at any level must work a minimum
 (c) If Membership status is acquired mid-year, pro rated hours will be considered as counting toward the minimum hours.
 
 (d) Sabbaticals (time off from the Cooperative) may be taken, even if the minimum hours are not reached as a result, and Membership may still be retained, if and only if the CoLab Board agrees to the sabbatical by consensus.
-
-### Section 1.7 Friends of CoLab
-
-Non-Member Collaborators are defined as consultants that may work with CoLab Cooperative, but do not have the rights and responsibilities of members at any level.
