@@ -6,19 +6,19 @@ The fiscal year of the Cooperative shall end at the close of the business day on
 
 ### Section 7.2 Terms Defined
 
-"Surplus" shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Invested Members.
+`Surplus` shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Invested Members.
 
-"Profit" shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Provisional Members, Working Members, and non-member collaborators (Friends of CoLab).
+`Profit` shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Provisional Members, Working Members, and non-member collaborators (Friends of CoLab).
 
-“Loss” shall be defined as the excess of expenses and losses over revenues and gains for a fiscal year.
+`Loss` shall be defined as the excess of expenses and losses over revenues and gains for a fiscal year.
 
-"Collective Account" shall be defined as a permanent capital account, not to be distributed to Invested Members.
+`Collective Account` shall be defined as a permanent capital account, not to be distributed to Invested Members.
 
-"Member Accounts" shall be defined as individual accounts for disbursement to Invested Members.
+`Member Accounts` shall be defined as individual accounts for disbursement to Invested Members.
 
 ### Section 7.3 Allocations and Distributions of Profits and Losses
 
-(a) Any Surplus shall be credited to Invested Member Accounts.
+(a) Any Surplus shall be credited 50% to Invested Member Accounts and 50% to the Collective Account.
 
 (b) Any Profit shall be credited to the Collective Account.
 
@@ -46,3 +46,4 @@ distribution of any residual assets, to the person's last known business or resi
 Upon liquidation, dissolution, or sale of the assets of the Cooperative, any Remaining Liabilities or debt left after payments from the sale of the assets shall be due and payable by all persons who were Invested Member at the time of the dissolution, in proportion to the Invested Members' relative paid labor for the previous and current fiscal year with the Cooperative. Credit balances in any Invested Member Accounts will be paid only after all debt and liabilities have been paid.
 
 The order of repayment will be as follows: Debt and liabilities to non-Members (e.g. vendors, landlord, employees, etc.), then Invested Member Accounts, starting with earliest-joined Invested Member and proceeding then to the next member remaining in the order of becoming an Invested Member.
+

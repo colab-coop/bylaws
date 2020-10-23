@@ -1,16 +1,18 @@
 ## ARTICLE I:  WORKERS & MEMBERSHIP
 
-### Section 1.1  Classification of Members
+### Section 1.1 Definitions
 
-(a) Definition: Invested Members are Members of the Cooperative who have completed the Member review process and paid full buy-in investment by capital investment or by work counting directly toward capital investment.
+Capitalized words used in this Article 1 have the following meanings:
 
-(b) Definition: Working Members are Members of the Cooperative who have followed the processes defined in section 1.3 for promotion from Provisional Membership to Working Membership.
+(a) `Invested Members` means the Members of the Cooperative who have completed the Member review process and paid full buy-in investment by capital investment or by work counting directly toward capital investment.
 
-(c) Definition: Provisional Members are Members of the Cooperative who have followed the processes defined in section 1.2 for promotion from Friend of CoLab.
+(b) `Working Members` means the Members of the Cooperative who have followed the processes defined in section 1.3 for promotion from Provisional Membership to Working Membership.
 
-(d) Definition: Friends of CoLab are people who have worked at CoLab in any capacity who are not currently members at any level.
+(c) `Provisional Members` means the Members of the Cooperative who have followed the processes defined in section 1.2 for promotion from Friend of CoLab.
 
-(e) Definition: The Member Body is composed of all members at all levels currently active with CoLab Cooperative Incorporated.
+(d) `Friends of CoLab` means the people who have worked at CoLab in any capacity who are not currently members at any level.
+
+(e) `The Member Body` means all members at all levels currently active with CoLab Cooperative Incorporated.
 
 ### Section 1.2 Provisional Membership
 
@@ -116,3 +118,8 @@ In order to maintain Membership status, members at any level must work a minimum
 (c) If Membership status is acquired mid-year, pro rated hours will be considered as counting toward the minimum hours.
 
 (d) Sabbaticals (time off from the Cooperative) may be taken, even if the minimum hours are not reached as a result, and Membership may still be retained, if and only if the CoLab Board agrees to the sabbatical by consensus.
+
+### Section 1.7 Patron Member Stock
+
+Section 5.1 of the Articles of Organization of CoLab (2013 - 2018) are hereby nullified. `Patron Member Stock` has never been issued, nor have they ever had any meaning to CoLab Cooperative. The inclusion of the section in the Articles of Organization of CoLab were erroneously copied from orthodox filing documentation at the time and carries no weight whatsoever. CoLab Cooperative is owned fully, equally, and exclusively by the Invested and Working Members of CoLab Cooperative.
+
