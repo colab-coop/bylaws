@@ -1,42 +1,31 @@
-## ARTICLE II:  TERMINATION OF MEMBERSHIP
+## ARTICLE II: TERMINATION OF MEMBERSHIP
 
-### Section 2.1  Voluntary Withdrawal
+### Section 2.1 Voluntary Withdrawal
 
-A Member shall have the right to resign from the Cooperative, effective
-immediately without any action on the part of the Cooperative.
+A member at any level shall have the right to resign from the Cooperative, effective immediately without any action on the part of the Cooperative. 
 
-Initial capital contribution will be returned immediately or deferred to
-installments depending on the Guiding Council's determination concerning
-the Collective Account (see Article 7) and the Cooperative's strategic
-planning. The Guiding Council has 30 days to come to a decision whether
-to return the ICC immediately or to defer to installments. If deferred
-installments is chosen, the terms shall be decided at the same time. The
-terms shall last no longer than 1 year after the Member has resigned.
+For Invested Members, if voluntarily withdrawing, the Invested Member’s Initial equity investment of $5000 will be returned immediately or or may be paid in installments depending on the Board’s determination concerning the Collective Account (see Article VII) and the Cooperative’s strategic planning. The Board has 30 days to come to a decision whether to return the Initial equity investment immediately or to make installment payments. If  Installment payments are chosen by the Board, the terms shall be decided at the same time. The terms shall last no longer than 1 year after the member at any level has resigned.
 
-### Section 2.2  Death
+### Section 2.2 Death
 
-A Membership shall immediately terminate upon the death of a Member.
+A Membership shall immediately terminate upon the death of a member at any level. In the case of death of an Invested Member, the Member’s Initial equity investment will be returned to the Member’s estate upon request of the estate within one year of death.
 
-Initial capital contribution will not be returned in case of death of
-Member.
+### Section 2.3 Expulsion
 
-### Section 2.3  Expulsion
+(a) A Provisional or Working Member may be removed by a vote of the Board with consensus minus one for any reasonable cause.
 
-(a)	A Member may for any lawful reason be expelled from the
-        Cooperative by unanimous consensus of the Member Body.
+(b) An Invested Member may be removed by a vote of the Invested Members with consensus minus one for any reasonable cause.
 
-(b)	Any appeal will be considered by the Member Body to decide that
-        the proposed expulsion not take place.  Unless the Member Body
-        decides by consensus to stop the termination, the expulsion will
-        be effective five days following the meeting to hear the appeal
-        or fifteen days after the initial notice, whichever is later.
+(c) Any Provisional, Working Member or Invested Member expulsions may be appealed with the support of two Invested Members and approved by a vote of the Invested Members with consensus minus one.
 
-(d)	The Member Body may direct a Member under expulsion order to
-        refrain from conducting business as a Member until the
-        termination action is resolved provided the Cooperative pays the
-        Member her or his unpaid wages -- until resolution is reached.
-        The Member Body may also direct the Member under expulsion order
-        to stay off Cooperative property except as necessary by law.
+Initial capital contribution will be returned within one year in case of expulsion of the Invested Member.
 
-Initial capital contribution will not be returned in case of expulsion
-of Member.
+### Section 2.4 Effect of Termination
+
+(a) Membership. On the date that a Member provides written notice of intent to withdraw to the CoLab Board, on the date of a Member’s death, or upon the termination of his or her membership in CoLab in accordance with this Article II, all rights and interests of the Member in CoLab, including any voting rights, shall cease, except as provided in these Bylaws.
+
+(b) Redemption. The terminated Member or the deceased Member's estate shall be entitled to redemption of the price paid by the Member for the Member’s Patron Member Share and the balance of the Member’s Member Account, less any obligation owed to CoLab by the Member (the “Redemption Price”). No redemption under this Article II may be made if it would render CoLab unable to pay its debts as they become due in the usual course of business or causes the remaining assets of CoLab to be less than its liabilities. However, CoLab shall redeem the terminated or deceased Member’s Patron Member Share if and when the redemption of the Member’s Patron Member Share will not render CoLab unable to pay its debts as they become due in the usual course of business or cause the remaining assets of CoLab to be less than its liabilities. The Redemption Price shall be paid using cash or promissory note or some combination of the two and the CoLab Board shall comply with any redemption policies created by the Board when redeeming Patron Member shares under this Article II. 
+
+(c) If the terminated or withdrawing Member serves on the CoLab Board, termination of that person’s membership will automatically result in termination of that person’s position on the Board. Termination or withdrawal of Membership does not automatically result in the termination of the person’s employment with CoLab. 
+
+\newpage
