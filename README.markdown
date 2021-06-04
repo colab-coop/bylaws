@@ -1,7 +1,9 @@
 𝔗𝔥𝔢 𝔅𝔶𝔢𝔏𝔞𝔴𝔰 𝔬𝔣 𝔱𝔥𝔢 𝕮𝔬𝔬𝔭𝔢𝔯𝔞𝔱𝔦𝔳𝔢 𝔬𝔣 𝕮𝔬𝔏𝔞𝔟
 ======
 
-CoLab Cooperative Bylaws
+The Amended and Restated CoLab Cooperative Bylaws
+
+Approved on: _____________
 
 Table of Contents
 ---
