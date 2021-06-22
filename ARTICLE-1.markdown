@@ -2,15 +2,17 @@
 
 ### Section 1.1 Definitions
 
-(a) “Invested Member” means the Members of the Cooperative who have completed the Member review process and paid a full equity investment by contributing work counting directly toward capital investment as provided in section 1.4 of these Bylaws.
+(a) “Invested Member” means the Members of the Cooperative who have completed the Member review process and paid a full Equity Investment by capital contribution as provided in section 1.4 of these Bylaws.
 
 (b) “Working Member” means the Members of the Cooperative who have followed the processes and who meet the qualifications for membership defined in section 1.3 for promotion from Provisional Membership to Working Membership.
 
-(c) Provisional Members means the Members of the Cooperative who have followed the processes and who meet the qualifications for membership defined in section 1.2 for promotion from Friends of CoLab.
+(c) “Provisional Members” means the individuals working with the Cooperative who have followed the processes and who meet the qualifications defined in section 1.2 for promotion from Friends of CoLab.
 
-(d) Friends of CoLab means the people who have worked at CoLab in any capacity who are not currently members at any level.
+(d) "Friends of CoLab" means the people who have worked at CoLab in any capacity who are not currently members at any level.
 
-(e) The Member Body means all the Invested Members and all the Working Members currently active with CoLab Cooperative Incorporated.
+(e) "The Member Body" means all the Invested Members and all the Working Members currently active with CoLab Cooperative Incorporated.
+
+(f) "Equity Investment" refers to the capital contribution made by the individual to CoLab as part of becoming invested menber as explained in section 1.4 of these Bylaws.
 
 ### Section 1.2 Provisional Membership
 
@@ -60,11 +62,11 @@ Any person legally allowed to work CoLab may become an Invested Member of this c
 
 2. Have worked with CoLab for at least 6 months at the time of "Invested Member Candidacy" vote by the other Invested Members, and has logged at least 300 hours in the prior 6 months.
 
-3. Have been ratified by the Invested Members for "Invested Member Candidacy" prior to accruing or contributing funds toward their Invested Member equity investment.
+3. Have been ratified by the Invested Members for "Invested Member Candidacy" prior to accruing or contributing funds toward their Invested Member Equity Investment.
 
 4. Have had an initial discussion on Invested Membership with a CoLab official representative, have been provided information and understood how the process works to become an Invested Member, and what it entails to be an Invested Member, including rights, benefits and responsibilities.
 
-5. Have completed equity investment by contributing work to CoLab for a minimum of 100 hours at or the number of hours needed to equal a value of $5,000. Hours worked will be counted directly toward capital investment. 
+5. Have completed Equity Investment by making a capital contribution equivalent to 100 hours of work at the individual's hourly rate. The capital contribution can be made in a single or multiple installments.
 
 6. Have attended one-on-one meetings (in person or via online video meeting) with all existing CoLab Invested Members.
 
@@ -78,7 +80,7 @@ Any person legally allowed to work CoLab may become an Invested Member of this c
 
 11. Have ratified (read, agreed, printed, signed, scanned, delivered) CoLab Membership Doctrine.
 
-In case the candidate is no longer in a position to become an Invested Member at any stage of the process, either due to their own volition or due to the decision of the Invested Members, CoLab shall refund the equity investment contributed by the candidate up to the full amount candidate would have charged CoLab for 100 hours of work done towards capital investment.
+In case the candidate is no longer in a position to become an Invested Member at any stage of the process, either due to their own volition or due to the decision of the Invested Members, CoLab shall refund the Equity Investment contributed by the candidate.
 
 The Invested Members may choose to ignore or waive any or all of the criteria stated above, upon consensus. 
 

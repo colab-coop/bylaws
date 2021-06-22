@@ -4,11 +4,11 @@
 
 A member at any level shall have the right to resign from the Cooperative, effective immediately without any action on the part of the Cooperative. 
 
-For Invested Members, if voluntarily withdrawing, the Invested Member’s Initial equity investment of $5000 will be returned immediately or or may be paid in installments depending on the Board’s determination concerning the Collective Account (see Article VII) and the Cooperative’s strategic planning. The Board has 30 days to come to a decision whether to return the Initial equity investment immediately or to make installment payments. If  Installment payments are chosen by the Board, the terms shall be decided at the same time. The terms shall last no longer than 1 year after the member at any level has resigned.
+For Invested Members, if voluntarily withdrawing, the Invested Member’s initial Equity Investment of $5000 will be returned immediately or or may be paid in installments depending on the Board’s determination concerning the Collective Account (see Article VII) and the Cooperative’s strategic planning. The Board has 30 days to come to a decision whether to return the Initial Equity Investment immediately or to make installment payments. If  Installment payments are chosen by the Board, the terms shall be decided at the same time. The terms shall last no longer than 1 year after the member at any level has resigned.
 
 ### Section 2.2 Death
 
-A Membership shall immediately terminate upon the death of a member at any level. In the case of death of an Invested Member, the Member’s Initial equity investment will be returned to the Member’s estate upon request of the estate within one year of death.
+A Membership shall immediately terminate upon the death of a member at any level. In the case of death of an Invested Member, the Member’s Initial Equity Investment will be returned to the Member’s estate upon request of the estate within one year of death.
 
 ### Section 2.3 Expulsion
 
