@@ -58,6 +58,8 @@ The Board shall consist of 9 persons with 7 persons nominated from the Invested 
 
 The number of seats on the Board may change from time to time as the number of members increases or decreases.   
 
+#### Board Member Selection
+
 The Board shall be formed at least annually. All members interested in participating in the Board shall approve by consensus a set of members to be put before the Member Body for ratification as the Board. The Member Body shall then ratify the Board's proposed formation according to the membership consensus process. Should the Member Body not ratify the Board, another group shall form and propose itself as Board. 
 
 Should the group of members interested in participating on the Board fail to come to a consensus on a proposed Board group the membership shall determine the proposed group through a Condorcet vote considering all members who put themselves forth. The group just formed shall be ratified according to the membership consensus process. 
@@ -65,6 +67,17 @@ Should the group of members interested in participating on the Board fail to com
 In the event that no group is named Board, the entire Member Body shall take on the duties of the Board. 
 
 Those on the Board shall seek to engage members not serving to serve on future Board, and shall rotate themselves out of Board membership as frequently as pragmatically feasible in a manner that provides opportunities for all coop members to participate. 
+
+#### Changes to Board Membership During a Board Term
+
+When a Working Member on the Board becomes an Invested Member: The new Invested Member remains on the Board. The Invested Board Members are asked to consider stepping down. If no one steps down, a new Board is selected.
+
+
+When a Board Member knows that they are going to miss 3 or more meetings during a Board term: As soon as they know that they will not be able to attend their third meeting during their 1 year term, they should step down. They are replaced with a member of the same type using the usual selection process. If someone is absent three times during their one-year term, they automatically step down and are replaced.
+
+
+When a Board Member wants to step down: They notify the Board in writing. We replace them with a member of the same type using the usual selection process. A Board member may step down at any time.
+
 
 ### Section 3.5 Org Areas and Working Groups
 
