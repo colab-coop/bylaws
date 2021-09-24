@@ -38,13 +38,13 @@ The protocol for the use of ballots in any way may be determined by the Member B
 
 As provided in the Articles of Organization, the membership shall form a board to monitor the operations of the cooperative, meet regularly to co-create strategic plans, author proposals for member ratification, and manage regular affairs deemed more impactful than the Org Areas (see below) have authority to manage, but not yet so impactful as to require entire membership consensus. The Board shall work to include all substantially impacted members in all decision-making processes.
 
-The Board shall meet monthly and review reports from all Org Areas charged with managing the operations of the cooperative. All members shall be welcome to participate in all Board meetings (without voting participation). Non-member Collaborators may attend the Board meeting (without voting participation) if agreed upon by consensus of the Board. The Board has the authority to conduct meetings or parts of meeting that discuss information that is confidential to the Company, including but not limited to, legal, financial or other private matters, and may excuse from the meeting non-Investor Members as determined in the sole discretion of the Board.  
+The Board shall meet monthly and review reports from all Org Areas charged with managing the operations of the cooperative. All members shall be welcome to participate in all Board meetings (without voting participation). Non-member Collaborators may attend the Board meeting (without voting participation) if agreed upon by consensus of the Board. The Board has the authority to conduct meetings or parts of meetings that discuss information that is confidential to the Company, including but not limited to, legal, financial or other private matters, and may excuse from the meeting non-Members as determined in the sole discretion of the Board.
 
-The minutes recorded during the Board meeting shall be made available to the general membership within 24 hours of the Board meeting. 
+The minutes recorded during the Board meeting shall be made available to the general membership within 24 hours of the Board meeting.
 
-The Board shall make decisions following the same consensus process as used for membership decisions. All Board members present at a Board meeting shall be eligible to participate in the decision-making processes of any Board meeting. 
+The Board shall make decisions following the same consensus process as used for membership decisions. All Board members present at a Board meeting shall be eligible to participate in the decision-making processes of any Board meeting.
 
-For decisions affecting the entire Cooperative, Board members may present decisions on Loomio (or any other tool agreed upon by the Board) for Board approval. The Board members are expected to vote within a period of 7 days. If any Board member chooses not to vote, the definition of consensus will be considered as consensus among those who voted. 
+For decisions affecting the entire Cooperative, Board members may present decisions on Loomio (or any other tool agreed upon by the Board) for Board approval. The Board members are expected to vote within a period of 7 days. If any Board member chooses not to vote, the definition of consensus will be considered as consensus among those who voted.
 
 #### Qualifications for the Board
 
@@ -65,6 +65,34 @@ Should the group of members interested in participating on the Board fail to com
 In the event that no group is named Board, the entire Member Body shall take on the duties of the Board. 
 
 Those on the Board shall seek to engage members not serving to serve on future Board, and shall rotate themselves out of Board membership as frequently as pragmatically feasible in a manner that provides opportunities for all coop members to participate. 
+
+#### Board Makeup Eventualities
+
+##### Board Member change of status
+
+When a Working Member on the Board becomes an Invested Member and there are more than two Board meetings left in their term:
+
+(i) The new Invested Member may choose to remain on the Board. 
+(ii) The Invested Board Members (including the new Invested Member) are asked to consider stepping down. A new Working Member is selected to fill the seat.
+(iii) If no one steps down, a new Board is selected.
+(iv) If there are only one or two Board meetings left in the new Invested Member’s term, the Board membership doesn’t change. (The new Invested Member stays on the Board to finish out their term.)
+
+##### Board Member resignations
+
+A Board member may step down at any time:
+
+(i) If stepping down, a Board member must notify the Board in writing. 
+(ii) If there are more than two Board meetings left in their term, they are replaced with a member of the same type using the usual selection process.
+(iii) If someone leaves CoLab they also automatically leave the Board.
+
+
+##### Absentee Board Member
+
+As soon as a Board Member knows they know that they will miss 3 or more meetings during their 1 year term:
+
+(i) The Board Member should resign as per above guidelines.
+(ii) If there are more than two Board meetings left in their term, the Board Member is replaced with a Member of the same type using the usual selection process.
+(iii) If someone is absent three times during their one-year term, they automatically step down and are replaced.
 
 ### Section 3.5 Org Areas and Working Groups
 
