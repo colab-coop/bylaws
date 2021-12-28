@@ -48,7 +48,7 @@ For decisions affecting the entire Cooperative, Board members may present decisi
 
 #### Qualifications for the Board
 
-The Board shall consist of 9 persons with 7 persons nominated from the Invested Members and 2 persons nominated from the Working Members. 
+The Board shall consist of 9 persons with 6 persons nominated from the Invested Members and 3 persons nominated from the Working Members. 
 
 (i) With respect to the Board seats for Invested Members, if possible, at least 50% of the seats shall be reserved for the diverse group, with at least 1 seat for female Invested Member and 1 seat for non-US citizen and/or non-US resident Invested Member. 
 
