@@ -4,9 +4,9 @@
 
 (a) “Invested Member” means the Members of the Cooperative who have completed the Member review process and paid a full Equity Investment by capital contribution as provided in section 1.4 of these Bylaws.
 
-(b) “Working Member” means the Members of the Cooperative who have followed the processes and who meet the qualifications for membership defined in section 1.3 for promotion from Provisional Membership to Working Membership.
+(b) “Working Member” means the Members of the Cooperative who have followed the processes and who meet the qualifications for membership defined in section 1.3 for promotion from Prospective Membership to Working Membership.
 
-(c) “Provisional Members” means the individuals working with the Cooperative who have followed the processes and who meet the qualifications defined in section 1.2 for promotion from Friends of CoLab.
+(c) “Prospective Members” means the individuals working with the Cooperative who have followed the processes and who meet the qualifications defined in section 1.2 for promotion from Friends of CoLab. A Prospective Member is not yet a full Member, but is on track to become a Working Member.
 
 (d) "Friends of CoLab" means the people who have worked at CoLab in any capacity who are not currently members at any level.
 
@@ -14,33 +14,33 @@
 
 (f) "Equity Investment" refers to the capital contribution made by the individual to CoLab as part of becoming invested menber as explained in section 1.4 of these Bylaws.
 
-### Section 1.2 Provisional Membership
+### Section 1.2 Prospective Membership
 
 (a) Benefits
 
-Provisional Members: Provisional Members are persons who may begin the process for becoming a Working Member. They are invited to attend CoLab Summits, can access Board reports and minutes, not including privacy, financial, and legal reports and related confidential issues.
+Prospective Members: Prospective Members are persons who may begin the process for becoming a Working Member. They are invited to attend CoLab Summits, can access Board reports and minutes, not including privacy, financial, and legal reports and related confidential issues. They are not yet full Members of the Cooperative.
 
 (b) Qualifications
 
-Persons wishing to become Provisional Members must have worked for CoLab for at least 600 hours in the past year and 300 hours of work in the prior 6 months (an average of 12.5 hours / week), at CoLab Standard Rates.  The Board may waive any of these requirements. Board decisions around qualifications may be appealed directly in writing and approved by full consensus of the Board.
+Persons wishing to become Prospective Members must have worked for CoLab for at least 600 hours in the past year and 300 hours of work in the prior 6 months (an average of 12.5 hours / week), at CoLab Standard Rates.  The Board may waive any of these requirements. Board decisions around qualifications may be appealed directly in writing and approved by full consensus of the Board.
 
 (c) Acceptance
 
-The Team Org Area will track Friends of CoLab and will notify those persons and the Board when they fulfill the qualifications for Provisional Membership. Unless the Board votes to block, the member will be promoted after meeting these qualifications.
+The Team Org Area will track Friends of CoLab and will notify those persons and the Board when they fulfill the qualifications for Prospective Membership. Unless the Board votes to block, the member will be promoted after meeting these qualifications.
 
 ### Section 1.3 Working Membership
 
 (a) Benefits
 
-Working Members: Working Members may begin the process for becoming an Invested Member by starting the “Investor Member Candidacy”. Working Members can serve as Org Leads and have all the benefits of Provisional Membership.
+Working Members: Working Members may begin the process for becoming an Invested Member by starting the “Investor Member Candidacy”. Working Members can serve as Org Leads and have all the benefits of Prospective Membership.
 
 (b) Qualifications
 
-Persons wishing to become Working Members must have been a Provisional Member for one year, at CoLab Standard Rates. The Board may waive any of these requirements. Board decisions around qualifications may be appealed directly in writing and approved by full consensus.
+Persons wishing to become Working Members must have been a Prospective Member for one year, at CoLab Standard Rates. The Board may waive any of these requirements. Board decisions around qualifications may be appealed directly in writing and approved by full consensus.
 
 (c) Acceptance
 
-The Team Org Area will track Provisional Members and will notify those persons and the Board when they fulfill the qualifications for Working Membership. Unless the Board votes to block, the Provisional Member will be promoted to Working Member after meeting these qualifications.
+The Team Org Area will track Prospective Members and will notify those persons and the Board when they fulfill the qualifications for Working Membership. Unless the Board votes to block, the Prospective Member will be promoted to Working Member after meeting these qualifications.
 
 ### Section 1.4 Invested Membership
 
@@ -78,7 +78,7 @@ Any person legally allowed to work CoLab may become an Invested Member of this c
 
 10. Have been approved by all existing CoLab Invested Members in a vote organized by CoLab Board.
 
-11. Have ratified (read, agreed, printed, signed, scanned, delivered) CoLab Membership Doctrine.
+11. Have read the current CoLab Mission Statement and Values and agreed to them in an email.
 
 In case the candidate is no longer in a position to become an Invested Member at any stage of the process, either due to their own volition or due to the decision of the Invested Members, CoLab shall refund the Equity Investment contributed by the candidate.
 
