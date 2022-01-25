@@ -8,7 +8,7 @@ The fiscal year of the Cooperative shall end at the close of the business day on
 
 “Surplus” shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Invested Members. 
 
-“Profit” shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Provisional Members, Working Members, and non-member collaborators (Friends of CoLab). 
+“Profit” shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year attributed to Prospective Members, Working Members, and non-member collaborators (Friends of CoLab). 
 
 “Loss” shall be defined as the excess of expenses and losses over revenues and gains for a fiscal year. 
 
