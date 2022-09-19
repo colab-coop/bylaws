@@ -48,7 +48,7 @@ No property or funds shall become the property of the Cooperative under this sec
 
 Upon liquidation, dissolution, or sale of the assets of the Cooperative, any assets left after payment of all debts and Invested Member Account balances shall be distributed to all persons who were Invested Members, in proportion to the Invested Members' account balances. No distribution need be made to any person who fails to acknowledge the receipt of notice of liquidation in a timely manner. Said notice shall be deemed sufficient if sent by certified mail, at least 30 days before distribution of any residual assets, to the person's last known business or residence. 
 
-Upon liquidation, dissolution, or sale of the assets of the Cooperative, any Remaining Liabilities or debt left after payments from the sale of the assets shall be due and payable by all persons who were Invested Member at the time of the dissolution, in proportion to the Invested Members' relative paid labor for the previous and current fiscal year with the Cooperative. Credit balances in any Invested Member Accounts will be paid only after all debt and liabilities have been paid. 
+Credit balances in any Invested Member Accounts will be paid only after all debt and liabilities have been paid, however, in no event shall any Invested or Working Member be personally liable for any remaining liability of the Cooperative. 
 
 The order of repayment will be as follows: Debt and liabilities to non-member creditors of the Cooperative (e.g. vendors, landlord, employees, etc.), then Invested Member Accounts, starting with earliest-joined Invested Member and proceeding then to the next member remaining in the order of becoming an Invested Member. 
 
