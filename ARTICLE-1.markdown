@@ -2,11 +2,11 @@
 
 ### Section 1.1 Definitions
 
-(a) “Member” means a Members of the Cooperative who have completed the Member review process.
+(a) “Member” means a Member of the Cooperative who has completed the Member review process.
 
 (b) “Future Member” mean an individual who has worked with CoLab for less than a year. A Future Member is not yet a Member, but is on track to become one.
 
-(c) A "Friend of CoLab" means a person who has worked for CoLab for more than a year but is not a member for any reason.
+(c) A "Friend of CoLab" means a person who has worked for CoLab for more than a year and still works a CoLab, but is not a member for any reason. They may have refused membership, resigned from membership, or had their membership terminated.
 
 (d) "The Member Body" means all the Members currently active with CoLab Cooperative Incorporated.
 
@@ -40,23 +40,23 @@ Members can:
 
 (b) Qualifications
 
-Any person legally allowed to work CoLab may become a Member of this cooperative if the applicant meets the following qualifications, as determined in the sole discretion of the Members:
+Any person legally allowed to work CoLab, including Future Members and Friends of CoLab, may become a Member of this cooperative if the applicant meets the following qualifications, as determined in the sole discretion of the Members:
 
 1. Expressed interest in being a Member.
 
-2. Have worked with CoLab for at least 12 months and has logged at least 600 hours of work in that time and has logged at least 300 hours in the prior 6 months.
+2. Has worked with CoLab for at least 12 months, has logged at least 600 hours of work in that time, and has logged at least 300 hours in the prior 6 months.
 
-3. Have attended at least one Board Meeting as an observer
+3. Has attended at least one Board Meeting as an observer
 
-4. Have completed the following orientations / trainings: Worker Cooperative Principles, CoLab Business Development Process, CoLab Governance, and CoLab Communications Standards, including conflict resolution and collaboration.
+4. Has completed the following orientations / trainings: Worker Cooperative Principles, CoLab Business Development Process, CoLab Governance, and CoLab Communications Standards, including conflict resolution and collaboration.
 
-5. Have read the current CoLab Mission Statement and Values and agreed to them in an email to the Membership Circle
+5. Has read the current CoLab Mission Statement and Values and agreed to them in an email to the Membership Circle
 
 The Members may choose to ignore or waive any or all of the criteria stated above, upon consensus. 
 
 (c) Acceptance of Members
 
-The Membership Circle shall review expressions of interest, arrange for required trainings, and once criteria stated above are fulfilled, shall give an offer of  Membership to the candidate.
+The Membership Circle shall review expressions of interest, arrange for required trainings, and once criteria stated above are fulfilled, shall give an offer of Membership to the candidate.
 
 ### Section 1.4 Transfers Prohibited
 
@@ -73,9 +73,5 @@ In order to maintain Membership status, members must work a minimum of 600 hours
 (c) If Membership status of the Member is acquired mid-year, pro rated hours will be considered as counting toward the minimum hours.
 
 (d) Members may take Sabbaticals (time off from the Cooperative). If the minimum hours are not reached as a result, Membership may still be retained if and only if the CoLab Board agrees to the sabbatical by consensus.
-
-### Section 1.6 Equity Investments
-
-CoLab is a non-stock cooperative and any equity investments made by Members of the cooperative shall be kept in Member Accounts on the books and records of the Cooperative as described in Article VII of these Bylaws.
 
 \newpage
