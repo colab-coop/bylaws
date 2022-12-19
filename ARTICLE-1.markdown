@@ -16,7 +16,7 @@
 
 (a) Benefits
 
-Future Members: Future Members are persons who work at CoLab and may begin the process for becoming a Member. They are invited to attend CoLab Summits and can access Board reports and minutes, not including privacy, financial, and legal reports and related confidential issues. They are not yet Members of the Cooperative.
+Future Members are invited to attend CoLab Summits and can access Board reports and minutes, not including privacy, financial, and legal reports and related confidential issues. They are not yet Members of the Cooperative.
 
 (b) Qualifications
 
@@ -24,7 +24,7 @@ Future Members must work for CoLab as employees or contractors for less than one
 
 (c) Acceptance
 
-The Membership Circle will track Future Members and will notify those persons and the Board when they fulfill the qualifications for Membership. Unless the Board votes to block, the member will be promoted after meeting these qualifications.
+A circle or org area will be tasked with tracking Future Members and will notify those persons and the Board when they fulfill the qualifications for Membership. Unless the Board votes to block, the member will be promoted after meeting these qualifications.
 
 ### Section 1.3 Membership
 
@@ -52,7 +52,7 @@ Any person legally allowed to work CoLab, including Future Members and Friends o
 
 5. Has read the current CoLab Mission Statement and Values and agreed to them in an email to the Membership Circle
 
-The Members may choose to ignore or waive any or all of the criteria stated above, upon consensus. 
+The Member Body may choose to ignore or waive any or all of the criteria stated above, upon consensus. 
 
 (c) Acceptance of Members
 
