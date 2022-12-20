@@ -28,7 +28,7 @@ If it appears that consensus may not be reached in time for the decision to be t
 
 3. Defer to the decision of the Board. 
 
-In the case that the need for a decision is imminent and after 24 hours following the calling of a membership decision process vote there is no conclusive result, the Board shall have the option of taking on the decision, though they must offer the membership an apology upon taking action, which shall include an explanation of the need for proceeding without member ratification and steps taken to ensure any demonstrated concerns of membership were taken into account. This stipulation does not apply to amendments or changes to these bylaws. Any amendments or changes to these bylaws must be approved by a consensus vote minus one of both the Invested Members and the Working Members. 
+In the case that the need for a decision is imminent and after 24 hours following the calling of a membership decision process vote there is no conclusive result, the Board shall have the option of taking on the decision, though they must offer the membership an apology upon taking action, which shall include an explanation of the need for proceeding without member ratification and steps taken to ensure any demonstrated concerns of membership were taken into account. This stipulation does not apply to amendments or changes to these bylaws. Any amendments or changes to these bylaws must be approved by a consensus vote minus one of the Member Body. 
 
 ### Section 3.3 Use of ballots for voting in case consensus is not reached
 
