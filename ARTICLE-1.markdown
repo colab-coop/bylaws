@@ -10,8 +10,6 @@
 
 (d) "The Member Body" means all the Members currently active with CoLab Cooperative Incorporated.
 
-(e) The "Membership Circle" is a committee of CoLab members that is tasked with membership-related policies and procedures and tracking membership statuses.
-
 ### Section 1.2 Future Membership
 
 (a) Benefits
@@ -20,7 +18,7 @@ Future Members are invited to attend CoLab Summits and can access Board reports 
 
 (b) Qualifications
 
-Future Members must work for CoLab as employees or contractors for less than one year.
+Future Members must work for CoLab as employees or contractors.
 
 (c) Acceptance
 
@@ -40,7 +38,7 @@ Members can:
 
 (b) Qualifications
 
-Any person legally allowed to work CoLab, including Future Members and Friends of CoLab, may become a Member of this cooperative if the applicant meets the following qualifications, as determined in the sole discretion of the Members:
+Any person legally allowed to work CoLab, including Future Members and Friends of CoLab, may become a Member of this cooperative if the applicant meets the following qualifications, as determined by the sole discretion of the Members:
 
 1. Expressed interest in being a Member.
 
