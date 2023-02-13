@@ -28,7 +28,7 @@ If it appears that consensus may not be reached in time for the decision to be t
 
 3. Defer to the decision of the Board. 
 
-In the case that the need for a decision is imminent and after 24 hours following the calling of a membership decision process vote there is no conclusive result, the Board shall have the option of taking on the decision, though they must offer the membership an apology upon taking action, which shall include an explanation of the need for proceeding without member ratification and steps taken to ensure any demonstrated concerns of membership were taken into account. This stipulation does not apply to amendments or changes to these bylaws. Any amendments or changes to these bylaws must be approved by a consensus vote minus one of both the Invested Members and the Working Members. 
+In the case that the need for a decision is imminent and after 24 hours following the calling of a membership decision process vote there is no conclusive result, the Board shall have the option of taking on the decision, though they must offer the membership an apology upon taking action, which shall include an explanation of the need for proceeding without member ratification and steps taken to ensure any demonstrated concerns of membership were taken into account. This stipulation does not apply to amendments or changes to these bylaws. Any amendments or changes to these bylaws must be approved by a consensus vote minus one of the Member Body. 
 
 ### Section 3.3 Use of ballots for voting in case consensus is not reached
 
@@ -38,9 +38,9 @@ The protocol for the use of ballots in any way may be determined by the Member B
 
 As provided in the Articles of Organization, the membership shall form a board to monitor the operations of the cooperative, meet regularly to co-create strategic plans, author proposals for member ratification, and manage regular affairs deemed more impactful than the Org Areas (see below) have authority to manage, but not yet so impactful as to require entire membership consensus. The Board shall work to include all substantially impacted members in all decision-making processes.
 
-The Board shall meet monthly and review reports from all Org Areas charged with managing the operations of the cooperative. All members shall be welcome to participate in all Board meetings (without voting participation). Non-member Collaborators may attend the Board meeting (without voting participation) if agreed upon by consensus of the Board. The Board has the authority to conduct meetings or parts of meeting that discuss information that is confidential to the Company, including but not limited to, legal, financial or other private matters, and may excuse from the meeting non-Investor Members as determined in the sole discretion of the Board.  
+The Board shall meet monthly and review reports from all Org Areas charged with managing the operations of the cooperative. All Members shall be welcome to participate in all Board meetings (without voting participation). Non-member Collaborators may attend the Board meeting (without voting participation) if agreed upon by consensus of the Board. The Board has the authority to conduct meetings or parts of meeting that discuss information that is confidential to the Company, including but not limited to, legal, financial or other private matters, and may excuse from the meeting non-members as determined in the sole discretion of the Board.  
 
-The minutes recorded during the Board meeting shall be made available to the general membership within 24 hours of the Board meeting. 
+The minutes recorded during the Board meeting shall be made available to the Members within 24 hours of the Board meeting. 
 
 The Board shall make decisions following the same consensus process as used for membership decisions. All Board members present at a Board meeting shall be eligible to participate in the decision-making processes of any Board meeting. 
 
@@ -48,13 +48,9 @@ For decisions affecting the entire Cooperative, Board members may present decisi
 
 #### Qualifications for the Board
 
-The Board shall consist of 9 persons with 6 persons nominated from the Invested Members and 3 persons nominated from the Working Members. 
+The Board shall consist of 9 persons nominated from the Member Body. 
 
-(i) With respect to the Board seats for Invested Members, if possible, at least 50% of the seats shall be reserved for the diverse group, with at least 1 seat for female Invested Member and 1 seat for non-US citizen and/or non-US resident Invested Member. 
-
-(ii) With respect to the Board seats for Working Members, if possible, at least 50% of the seats shall be reserved for the diverse group.
-
-“Diverse” in this context means the members should consider gender, international status, religion, sexual preference, ethnicity or other categories of diversity that arise in the future. Nominations shall be made by the members who are encouraged to nominate a diverse group for the Board. 
+If possible, at least 50% of the seats shall be reserved for the diverse group, with at least 1 seat for a non-male Member and 1 seat for a non-US citizen and/or non-US resident Member. “Diverse” in this context means the members should consider gender, international status, religion, sexual preference, ethnicity, or other categories of diversity that arise in the future.  
 
 The number of seats on the Board may change from time to time as the number of members increases or decreases.   
 
@@ -64,13 +60,13 @@ Should the group of members interested in participating on the Board fail to com
 
 In the event that no group is named Board, the entire Member Body shall take on the duties of the Board. 
 
-Those on the Board shall seek to engage members not serving to serve on future Board, and shall rotate themselves out of Board membership as frequently as pragmatically feasible in a manner that provides opportunities for all coop members to participate. 
+Those on the Board shall seek to engage members not serving to serve on future Board, and shall rotate themselves out of Board membership as frequently as pragmatically feasible in a manner that provides opportunities for all co-op members to participate. 
 
 ### Section 3.5 Org Areas and Working Groups
 
 The Board shall have the option of establishing subsets of the membership called "Org Areas" and delegating decision making authority to those Org Areas in specific domains. 
 
-Org Areas shall have Lead positions who are responsible for the day-to-day operations of the Org Area responsibilities as well as forming the Working Groups (see below) necessary for decisions beyond the scope of day-to-day operations. The Org Area's responsibilities and authority shall be agreed upon by consensus of the Board. The Org Area's Lead position shall be a Working or Invested Member, and shall be agreed upon by consensus of the Board. 
+Org Areas shall have Lead positions who are responsible for the day-to-day operations of the Org Area responsibilities as well as forming the Working Groups (see below) necessary for decisions beyond the scope of day-to-day operations. The Org Area's responsibilities and authority shall be agreed upon by consensus of the Board. The Org Area's Lead position shall be a Member and shall be agreed upon by consensus of the Board. 
 
 A document specifying the intent, responsibilities, areas of decision making, and Org Area Lead shall be created for each Org Area. 
 

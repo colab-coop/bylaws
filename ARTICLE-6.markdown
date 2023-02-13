@@ -6,7 +6,7 @@ The Cooperative shall keep the original or a copy of its articles and Bylaws as 
 
 ### Section 6.2 Books and Records
 
-The accounting books and records and minutes of any proceedings of the Member Body and/or interested subsets shall be open to inspection on the written demand of any Invested or Working Member at any reasonable time, for a purpose reasonably related to that person's interests as an Invested or Working Member.
+The accounting books and records and minutes of any proceedings of the Member Body and/or interested subsets shall be open to inspection on the written demand of any Member at any reasonable time, for a purpose reasonably related to that person's interests as a Member.
 
 ### Section 6.3 Inspection of Membership List
 
