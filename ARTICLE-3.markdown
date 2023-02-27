@@ -48,7 +48,7 @@ For decisions affecting the entire Cooperative, Board members may present decisi
 
 #### Qualifications for the Board
 
-The Board shall consist of 9 persons nominated from the Member Body. 
+The Board shall consist of 7 persons nominated from the Member Body. 
 
 If possible, at least 50% of the seats shall be reserved for the diverse group, with at least 1 seat for a non-male Member and 1 seat for a non-US citizen and/or non-US resident Member. “Diverse” in this context means the members should consider gender, international status, religion, sexual preference, ethnicity, or other categories of diversity that arise in the future.  
 
